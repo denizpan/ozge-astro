@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "00-the-fool",
+    "number": 0,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "DELI",
+    "nameEN": "The Fool",
+    "element": "Hava",
+    "planet": "Uranüs",
+    "keywords": [
+      "başlangıç",
+      "saflık",
+      "cesaret",
+      "ihtimal"
+    ],
+    "upright": {
+      "general": "Deli, uçurumun kenarında başı yukarıda duran genç bir figürdür. Sırtında küçük bir bohça, ayağının dibinde uyarıda bulunan bir köpek, gözleri ufka kilitli. Sayısı sıfır, yani henüz hiçbir şey değil ama her şey olabilir, sınırsız ihtimalin tek noktası. Bu kart yeni bir başlangıcın eşiğinde durduğunu, hesaplamadan, planlamadan, içinin yöneldiği yere doğru adım atma cesareti taşıdığını söyler. Risk var, evet, ama gitmemek de bir risk.",
+      "love": "Bilmediğin bir kalbe doğru ilk adım, hesaplanmamış ama içten bir yöneliş.",
+      "career": "Yeni bir alanın eşiğinde duruyorsun, deneyimin değil niyetinin yol açacağı bir başlangıç.",
+      "yesNo": "EVET, başlangıç enerjisi açık."
+    },
+    "reversed": {
+      "general": "Deli ters geldiğinde adımın geciktiğini ya da temelsiz aceleye kapıldığını söyler. İçindeki çocuk ya korkudan donmuş ya da hesapsız bir şekilde uçuruma yöneliyor. İki uç da aynı kartın iki yüzü, denge için kısa bir duraksama yeter.",
+      "love": "Hazır olmadan girilen ya da hiç başlamayan bir bağlanma, ölçüsü tutmayan bir kalp.",
+      "career": "Plansız bir sıçrama ya da fırsatı geri çevirme, ikisi de uçun aynı sapması."
+    },
+    "image": "/img/cards/00-the-fool.webp",
+    "thumbnail": "/img/cards/thumbs/00-the-fool.webp"
+  },
+  {
+    "id": "01-the-magician",
+    "number": 1,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "BÜYÜCÜ",
+    "nameEN": "The Magician",
+    "element": "Hava",
+    "planet": "Merkür",
+    "keywords": [
+      "irade",
+      "yaratım",
+      "odak",
+      "ifade"
+    ],
+    "upright": {
+      "general": "Büyücü masasının başında durur, bir eli yukarı bir eli yere uzanır, önündeki dört araç dört unsuru temsil eder. Başlangıç sayısı olan birin enerjisini taşır, niyeti eyleme çevirme yetisinin kartıdır. Her şey elinin altında, gereken malzeme zaten masada, eksik olan tek şey odaklanmış iradedir. Konuşmanın, yazmanın, yaratmanın hızı burada toplanır, fikir dudaktan çıkmadan biçim almaya başlar. Bu kart sana sahip olduklarını fark ettirmek için gelir.",
+      "love": "Çekim ve ifade güçlü, doğru kelime doğru anda söylendiğinde kapı açılır.",
+      "career": "Yeteneklerin görünür hale geliyor, bir sunum, bir teklif, bir başlangıç biçim alıyor.",
+      "yesNo": "EVET, niyet ve araç hizalı."
+    },
+    "reversed": {
+      "general": "Büyücü ters döndüğünde yetenek var ama yön kayıp. Kelimeler gerçeği örtmek için kullanılıyor olabilir, ya da kendi gücünü küçümsediğin için masadaki araçlar boş duruyor. Manipülasyon ile öz değerin kaybı, aynı sapmanın iki ucu.",
+      "love": "Söylenen söz ile niyet arasında bir aralık, kendine ya da karşıdakine gerçeği eğme.",
+      "career": "Yeteneğini sahiplenememe ya da olduğundan başka bir şey gibi sunma."
+    },
+    "image": "/img/cards/01-the-magician.webp",
+    "thumbnail": "/img/cards/thumbs/01-the-magician.webp"
+  },
+  {
+    "id": "02-the-high-priestess",
+    "number": 2,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "YÜCE RAHIBE",
+    "nameEN": "The High Priestess",
+    "element": "Su",
+    "planet": "Ay",
+    "keywords": [
+      "sezgi",
+      "sessizlik",
+      "iç bilgi",
+      "bekleyiş"
+    ],
+    "upright": {
+      "general": "Yüce Rahibe iki sütun arasında oturur, kucağında bir tomar, başında ay tacı, ayaklarının dibinde sessiz bir hilal. İkilinin enerjisini taşır, iki dünyanın eşiğinde durur, biri konuşulan biri konuşulmayan. Bu kart sana cevabın dışarıda değil içinde olduğunu, henüz olgunlaşmamış bir bilginin sessizce büyüdüğünü söyler. Konuşmadan önce bir gece geçirmek, karar vermeden önce rüyaya kulak vermek, hızlı tepki yerine dinleme. Ayın ışığı yumuşak ama net, görmek için karanlığa alışmak gerekiyor.",
+      "love": "Söylenmemiş duyguların altında gerçek akar, kalbin sesini bastırma.",
+      "career": "Henüz açıklanmamış bir bilgi var, ya da sezgin bir teklifi okumakta haklı çıkacak.",
+      "yesNo": "BELKİ, cevap henüz olgunlaşmadı."
+    },
+    "reversed": {
+      "general": "Yüce Rahibe ters geldiğinde içsesinden uzaklaşmış, dış sesi çoğaltmış olabilirsin. Sezgi var ama susturuluyor, ya da tam tersi gizem perdesi gerçeklikle aranı açıyor. İçsel bilginin paylaşılması gereken anı seçememe.",
+      "love": "Söylenmesi gereken bir şey içinde tutuluyor, ya da yanlış kişiye yanlış anda açılma.",
+      "career": "İçgüdünü dış otoritenin sesi bastırıyor, kendi okumana güvenmek gerekiyor."
+    },
+    "image": "/img/cards/02-the-high-priestess.webp",
+    "thumbnail": "/img/cards/thumbs/02-the-high-priestess.webp"
+  },
+  {
+    "id": "03-the-empress",
+    "number": 3,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "İMPARATORİÇE",
+    "nameEN": "The Empress",
+    "element": "Toprak",
+    "planet": "Venüs",
+    "keywords": [
+      "üretim",
+      "bereket",
+      "şefkat",
+      "büyüme"
+    ],
+    "upright": {
+      "general": "İmparatoriçe yumuşak yastıklarda oturur, başında on iki yıldız, etrafı buğday tarlası ve akan su. Üretmenin, beslemenin, hayatın yumuşak bir alanda büyümesine izin vermenin kartıdır. Üç sayısı yaratımın sayısıdır, içinde bir şeyin doğmaya hazırlandığını söyler, çocuk, fikir, proje, ilişki, fark etmez. Venüs yumuşaklığı her detaya sızar, güzellik buradan akar, tat, dokunuş, koku, bedene dönüş. Bu kart sana yavaşlamayı, koklamayı, sahip olduğunla ilgilenmeyi hatırlatır.",
+      "love": "Sevgi bedenle ifade ediliyor, sıcaklık ve yakınlık dolu bir dönem.",
+      "career": "Yaratıcı bir projenin meyve verdiği, emeğin görünür hale geldiği zaman.",
+      "yesNo": "EVET, bereket alanı açık."
+    },
+    "reversed": {
+      "general": "İmparatoriçe ters döndüğünde üretkenliğin tıkandığını ya da bakımın taşmaya, boğmaya dönüştüğünü söyler. Kendine bakmadan başkasına bakmak, ya da yaratıcı akışın bir süre durması. Toprağın su istemesi, suyun da yatak istemesi.",
+      "love": "Sevgide dengesizlik, fazla sahiplenme ya da soğukluk arası salınım.",
+      "career": "Yaratıcı blokaj ya da projeye gereğinden fazla yüklenme, mola gerekiyor."
+    },
+    "image": "/img/cards/03-the-empress.webp",
+    "thumbnail": "/img/cards/thumbs/03-the-empress.webp"
+  },
+  {
+    "id": "04-the-emperor",
+    "number": 4,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "İMPARATOR",
+    "nameEN": "The Emperor",
+    "element": "Ateş",
+    "planet": "Koç",
+    "keywords": [
+      "yapı",
+      "otorite",
+      "düzen",
+      "sınır"
+    ],
+    "upright": {
+      "general": "İmparator taş tahtında oturur, zırhı altında, elinde asası, arka planda çıplak dağlar. Dört sayısının enerjisini taşır, yapının, sınırın, temelin kartıdır. Bu figür dağılan şeyleri toplar, yumuşak olanı çerçeveye koyar, kararı erteleyenden kararı verene geçişi temsil eder. Koç enerjisi ona hız verir ama tahtı sabit, yani aceleci değil, sahiplenici. Bu kart sana yapı kurma zamanının geldiğini söyler, kendi krallığında kim olacağına karar verme zamanı.",
+      "love": "Net çerçeve ve sözünü tutan bir bağ, güvenli yapının önemi öne çıkar.",
+      "career": "Liderlik, kurumsal yapı, sahiplenme, kendi alanını çerçeveleme.",
+      "yesNo": "EVET, sağlam temel mevcut."
+    },
+    "reversed": {
+      "general": "İmparator ters geldiğinde otorite ya katılaşmış ya da çökmüş demektir. Kendi sınırını koyamayan biri ya da çevresine sınırı dayatan bir baskı, aynı sapmanın iki yüzü. Yapının insanı taşıması gerekirken insanı ezmesi.",
+      "love": "Kontrol arzusu ya da tam tersi yön kaybı, dengesi tutmayan bir bağ.",
+      "career": "Katı bir hiyerarşi ya da çerçevesiz bir kaos, ikisi de yapıyı çürütür."
+    },
+    "image": "/img/cards/04-the-emperor.webp",
+    "thumbnail": "/img/cards/thumbs/04-the-emperor.webp"
+  },
+  {
+    "id": "05-the-hierophant",
+    "number": 5,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "PAPA",
+    "nameEN": "The Hierophant",
+    "element": "Toprak",
+    "planet": "Boğa",
+    "keywords": [
+      "gelenek",
+      "öğreti",
+      "rehber",
+      "kurum"
+    ],
+    "upright": {
+      "general": "Papa iki sütun arasında oturur, önünde diz çökmüş iki öğrenci, eli kutsamada. Beş sayısı çatışmanın sayısıdır ama burada çatışma değil, geleneğin içinde tutulan bir denge konuşur. Bu kart bir rehbere, bir öğreti hattına, kendinden büyük bir bilgi yapısına bağlanmanın anlamlı olduğunu söyler. Öğrenmek, ders almak, bir ustaya, bir kuruma, bir manevi pratiğe dahil olmak. Boğa toprağı sabırlı, hızlı çıkış değil, uzun süreli bir bağlılık burada konuşur.",
+      "love": "Geleneksel bir bağ, evlilik, taahhüt, ailenin onayı önem kazanıyor.",
+      "career": "Mentorluk, sertifika, kurumsal bir çatı altına girme, bir okula yazılma.",
+      "yesNo": "EVET, ama uzun yolun parçası olarak."
+    },
+    "reversed": {
+      "general": "Papa ters döndüğünde miras alınan kurallar artık seni taşımıyor demektir. Kendi yolunu açma çağrısı, ya da geleneğe körce uymanın bedelini görme. Burada başkaldırı kötü değil, olgunlaşmanın işaretidir.",
+      "love": "Toplumun beklediği ile kalbinin istediği aynı şey değil, seçim önünde duruyor.",
+      "career": "Eski yapılar tıkıyor, kendi yolunu kurmanın zamanı, kalıbı kırma."
+    },
+    "image": "/img/cards/05-the-hierophant.webp",
+    "thumbnail": "/img/cards/thumbs/05-the-hierophant.webp"
+  },
+  {
+    "id": "06-the-lovers",
+    "number": 6,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "SEVGİLİLER",
+    "nameEN": "The Lovers",
+    "element": "Hava",
+    "planet": "İkizler",
+    "keywords": [
+      "seçim",
+      "uyum",
+      "bağ",
+      "bütünleşme"
+    ],
+    "upright": {
+      "general": "Sevgililer kartında çıplak iki figür güneşin altında durur, yukarıda bir melek onları kutsar, ikisinin arasında bir yol uzanır. Altı sayısı dengenin sayısıdır, iki ayrı şeyin bütünleştiği yerdir. Bu kart yalnız romantik aşkı değil, kalbinin değer dizgisine uygun seçimi konuşur, yani neye evet neye hayır dediğini. İkizler havasının inceliği var, iletişim, anlaşma, doğru kelimeyle doğru bağ. Bu kart sana bir seçimin önünde durduğunu, seçimin de yalnız akıl ile değil kalp ile verildiğini söyler.",
+      "love": "Derin bir bağ, kalpten verilmiş bir evet, uyumun açıkça hissedildiği an.",
+      "career": "İki yol arasında değer temelli bir seçim, ortaklık potansiyeli.",
+      "yesNo": "EVET, kalbin onayıyla."
+    },
+    "reversed": {
+      "general": "Sevgililer ters geldiğinde seçim erteleniyor ya da değerlere ters düşen bir bağ kuruluyor olabilir. Uyumun bozulduğu, iki tarafın farklı yöne baktığı an. Bu sapma genellikle kendi içinde bir uyumsuzluğun dış yansıması.",
+      "love": "Üçüncü bir kişi, üçüncü bir öncelik, ya da içteki ikilemin bağı zorlaması.",
+      "career": "Değerlerinle çelişen bir teklif, ya da ortaklıkta uyum kaybı."
+    },
+    "image": "/img/cards/06-the-lovers.webp",
+    "thumbnail": "/img/cards/thumbs/06-the-lovers.webp"
+  },
+  {
+    "id": "07-the-chariot",
+    "number": 7,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "SAVAŞ ARABASI",
+    "nameEN": "The Chariot",
+    "element": "Su",
+    "planet": "Yengeç",
+    "keywords": [
+      "irade",
+      "yön",
+      "zafer",
+      "kontrol"
+    ],
+    "upright": {
+      "general": "Savaş Arabası'nın önünde iki sfenks duruyor, biri siyah biri beyaz, ikisi farklı yönlere çekiyor ama sürücü dizginleri sıkı tutuyor. Yedi sayısının arayış enerjisi burada eyleme dökülmüş halde. Bu kart zıt güçleri kendi yönüne hizalamanın, bir hedefe doğru içsel parçaları toplamanın kartıdır. Yengeç suyu sürücüye duygusal güç verir, ama zırh sayesinde dağılmaz, kanalize olur. Bu kart sana kararının arkasında durabilirsen yolun açılacağını söyler.",
+      "love": "Hedefli bir bağlanma, bir tarafın belirleyici adım atması, ilerleme.",
+      "career": "Atılım, başlatılan projenin ivme kazanması, rekabette netlik.",
+      "yesNo": "EVET, irade taşıyabiliyor."
+    },
+    "reversed": {
+      "general": "Savaş Arabası ters döndüğünde dizginler gevşemiş, içindeki iki sfenks farklı yönlere çekiyor demektir. Yön karmaşası, irade dağılması, ya da hedefe ulaşmak için kendine ve etrafına aşırı baskı. Hız değil, durma ve toparlanma çağrısı.",
+      "love": "Bağda yön kaybı, bir tarafın çekmesi diğerinin frenlemesi.",
+      "career": "Çok yöne aynı anda koşmak, ya da motivasyonun düşmesi, durup hedef güncellemek."
+    },
+    "image": "/img/cards/07-the-chariot.webp",
+    "thumbnail": "/img/cards/thumbs/07-the-chariot.webp"
+  },
+  {
+    "id": "08-strength",
+    "number": 8,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "GÜÇLÜLÜK",
+    "nameEN": "Strength",
+    "element": "Ateş",
+    "planet": "Aslan",
+    "keywords": [
+      "sabır",
+      "şefkat",
+      "iç güç",
+      "yumuşaklık"
+    ],
+    "upright": {
+      "general": "Güçlülük kartında bir kadın aslanın çenesini yumuşakça tutar, başının üstünde sonsuzluk işareti dolanır. Sekiz sayısı ustalığın sayısıdır, ama burada ustalık zorlamadan değil sevmekten gelir. Aslan içindeki vahşi olanı, henüz evcilleşmemiş arzuyu, öfkeyi, güdüyü temsil eder. Kadın onu öldürmüyor, susturmuyor, sadece elini uzatıyor. Bu kart sana güçlü olmanın sertleşmek olmadığını, içindeki yırtıcıyı tanıyıp ona el verebilmek olduğunu söyler.",
+      "love": "Kalp sabırla açılır, yumuşaklık güçten gelir, baskı değil davet işe yarar.",
+      "career": "Zorluk karşısında sakin kalabilme, uzun soluklu bir ustalık dönemi.",
+      "yesNo": "EVET, ama sabırla."
+    },
+    "reversed": {
+      "general": "Güçlülük ters geldiğinde içindeki aslan ya susturulmuş ya da kontrolden çıkmış olabilir. Kendi öfkene, arzuna, ihtiyacına şefkat gösterememek, ya da onları örtmek için fazla çaba. Güç dışarıdan değil, içerideki barıştan gelir.",
+      "love": "Öfkeyi yutmak ya da patlatmak arası salınım, denge merkezde değil uçlarda.",
+      "career": "Kendine inanç sarsılmış olabilir, dış onaya fazla bağlanma."
+    },
+    "image": "/img/cards/08-strength.webp",
+    "thumbnail": "/img/cards/thumbs/08-strength.webp"
+  },
+  {
+    "id": "09-the-hermit",
+    "number": 9,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "MUNEVVİR",
+    "nameEN": "The Hermit",
+    "element": "Toprak",
+    "planet": "Başak",
+    "keywords": [
+      "geri çekilme",
+      "iç ışık",
+      "bilgelik",
+      "yalnızlık"
+    ],
+    "upright": {
+      "general": "Münzevi karlı bir tepenin üstünde tek başına durur, elinde bir lamba, içindeki yıldız sessizce yanar. Dokuz sayısı tamamlanmanın sayısıdır, bir döngünün özünü süzme zamanı. Bu figür kalabalıktan değil, gürültüden uzaklaşır, çünkü içindeki sesi duyabilmek için sessizlik gerekir. Başak toprağı incelikle ayıklayan bir enerji, neyin gerekli neyin fazlalık olduğunu süzer. Bu kart sana bir süre geri çekilmenin, kendi ışığınla yol bulmanın değerli olduğunu söyler.",
+      "love": "Kendine dönüş zamanı, yalnız değil ama içe çekilmiş, asıl soruyu kendine sorma.",
+      "career": "Uzmanlaşma, derinleşme, bir süre dış göstergelerden uzaklaşıp işin özüne odaklanma.",
+      "yesNo": "BELKİ, önce iç sese kulak ver."
+    },
+    "reversed": {
+      "general": "Münzevi ters döndüğünde geri çekilme uzamış, yalnızlık inzivadan izolasyona dönüşmüş olabilir. Ya da tam tersi, kendine vakit ayırmadan dış kalabalığın içinde kayboluyorsundur. Lambanın yanması için fitilin sessizliğe ihtiyacı var.",
+      "love": "Aşırı uzaklaşma ya da tam tersi yalnız kalmaktan kaçma, ikisi de aynı duvarın iki yüzü.",
+      "career": "Kendi alanında izolasyon, ya da hiç durmadan koşturup öze ulaşamamak."
+    },
+    "image": "/img/cards/09-the-hermit.webp",
+    "thumbnail": "/img/cards/thumbs/09-the-hermit.webp"
+  },
+  {
+    "id": "10-wheel-of-fortune",
+    "number": 10,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "TALIH TEKERLEĞİ",
+    "nameEN": "Wheel of Fortune",
+    "element": "Ateş",
+    "planet": "Jüpiter",
+    "keywords": [
+      "döngü",
+      "değişim",
+      "akış",
+      "eşik"
+    ],
+    "upright": {
+      "general": "Talih Tekerleği gökyüzünde döner, dört köşesinde dört yaratık kitap okur, merkez sabit, kenar dönüyor. On sayısı bir döngünün sonu ve yeni döngünün başlangıcı, eşik sayısı. Bu kart hayatında bir dönüşün başladığını, kontrol edemeyeceğin bir akışın seni bir başka noktaya taşıdığını söyler. Jüpiter genişlemesi vardır burada, kapı açıldığında genişçe açılır. Direnmek değil, dönüşün ortasında merkezi tutmak, kenardaki çalkantıya rağmen iç sabiti korumak.",
+      "love": "Beklenmedik bir kişi, beklenmedik bir kavuşum ya da bir döngünün kapanması.",
+      "career": "Şans kapısı aralanıyor, hareket başlıyor, yeni bir bölüm açılıyor.",
+      "yesNo": "EVET, akış lehine dönüyor."
+    },
+    "reversed": {
+      "general": "Tekerlek ters döndüğünde aynı döngünün tekrar tekrar yaşandığı, dersin henüz alınmadığı duygusu var. Ya da değişime direnme, akışı kontrol etmeye çalışma. Tekerlek dönmeye devam ediyor, sadece sen merkezde değil kenardasın.",
+      "love": "Aynı örüntünün tekrarı, eski bir döngüye yeni bir kişiyle girmek.",
+      "career": "Şanssızlık değil, dersi tamamlanmamış bir konunun tekrar gelmesi."
+    },
+    "image": "/img/cards/10-wheel-of-fortune.webp",
+    "thumbnail": "/img/cards/thumbs/10-wheel-of-fortune.webp"
+  },
+  {
+    "id": "11-justice",
+    "number": 11,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "ADALET",
+    "nameEN": "Justice",
+    "element": "Hava",
+    "planet": "Terazi",
+    "keywords": [
+      "denge",
+      "doğruluk",
+      "sorumluluk",
+      "netlik"
+    ],
+    "upright": {
+      "general": "Adalet bir elinde kılıç bir elinde terazi tutar, bakışı dümdüz, iki sütun arasında oturur. Hava elementi netlik getirir, kılıç gereksizi keser, terazi gerçek ağırlığı tartar. Bu kart bir konunun dürüstçe tartılmasının, sorumluluğun karşılığının verilmesinin zamanı geldiğini söyler. Terazi yumuşaklığı vardır ama kılıç kararlıdır, ikisi birlikte. Sonuçların sebepten doğduğu, eylemin tohumunun şimdi meyve verdiği bir alanda duruyorsun.",
+      "love": "Dürüstlük öne çıkar, söylenmemiş şeyler söylenmek için zaman istiyor.",
+      "career": "Sözleşme, hukuki bir konu, ya da bir kararın adil sonucu.",
+      "yesNo": "EVET, eğer eylemler doğruyu çağırıyorsa."
+    },
+    "reversed": {
+      "general": "Adalet ters döndüğünde sorumluluğun bir tarafa yığıldığı, terazinin eşit olmadığı bir denklem var demektir. Kendi payına düşeni görmemek ya da başkasının payını da yüklenmek, aynı dengesizliğin iki yüzü. Sürtünmeyi tanımak çözümün ilk basamağı.",
+      "love": "Eşitsiz bir verme alma, biri taşıyor diğeri yer açıyor.",
+      "career": "Hak edilen tanınmıyor olabilir ya da bir hesap henüz kapanmadı."
+    },
+    "image": "/img/cards/11-justice.webp",
+    "thumbnail": "/img/cards/thumbs/11-justice.webp"
+  },
+  {
+    "id": "12-the-hanged-man",
+    "number": 12,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "ASILMIŞ ADAM",
+    "nameEN": "The Hanged Man",
+    "element": "Su",
+    "planet": "Neptün",
+    "keywords": [
+      "askıda kalış",
+      "perspektif",
+      "teslimiyet",
+      "duraksama"
+    ],
+    "upright": {
+      "general": "Asılmış Adam ayağından bir ağaca asılı durur, başı aşağıda ama yüzünde sıkıntı yok, başının etrafında hafif bir ışık. Bu kart bir aksiyon değil, bir duraksamadır. Hareket etmek istediğin ama edemediğin, ya da bilinçli olarak askıda kaldığın bir an. Su elementi teslim olmayı, akışa bırakmayı söyler, Neptün ise olağan bakışın ötesini görmeyi. Dünyaya tepetaklak bakınca bazı şeyler ilk defa doğru tarafından görünür.",
+      "love": "Askıda kalan bir bağ, beklemenin içinde olgunlaşan bir farkındalık.",
+      "career": "Ara verme, bir projeyi rafa kaldırma, başka açıdan bakma zamanı.",
+      "yesNo": "BELKİ, ama hareket için değil bekleyiş için."
+    },
+    "reversed": {
+      "general": "Asılmış Adam ters geldiğinde askıda kalış uzamış, teslimiyet pasifliğe dönüşmüş olabilir. Ya da tam tersi, hala asılı kalmayı reddediyor, hareket etmeye zorluyorsundur. İki uç da aynı dersin iki yüzü, askıdaki bilgi henüz alınmamış.",
+      "love": "Karar verilemeyen bir bağ, ne ileri ne geri, çözümsüz bir denge.",
+      "career": "Çıkmaza dönüşmüş bir bekleyiş, bir adım atmanın zamanı."
+    },
+    "image": "/img/cards/12-the-hanged-man.webp",
+    "thumbnail": "/img/cards/thumbs/12-the-hanged-man.webp"
+  },
+  {
+    "id": "13-death",
+    "number": 13,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "ÖLÜM",
+    "nameEN": "Death",
+    "element": "Su",
+    "planet": "Akrep",
+    "keywords": [
+      "dönüşüm",
+      "bitiş",
+      "yenilenme",
+      "bırakma"
+    ],
+    "upright": {
+      "general": "Ölüm beyaz bir at üstünde ilerler, elinde siyah bir bayrak, üzerinde beyaz bir gül. Bu kart fiziksel ölüm değildir, bir dönemin kapanmasıdır. Akrep suyu derindir, yüzeyin altında olmaya devam edeni bırakır. On üç sayısı kapanış ve dönüşümün sayısıdır, eskiyi gömüp yenisinin yerini açar. Bu kart geride bırakacağın bir şeyin olduğunu söyler, bu bir alışkanlık, bir ilişki, bir kimlik tanımı, eski bir öyküdür. Bırakmak yas gerektirir, ama bırakmadan yenisi gelmez.",
+      "love": "Bir dönemin kapanışı, bağın ya bitmesi ya tamamen yeni bir biçime dönüşmesi.",
+      "career": "Bir pozisyonun, bir projenin, bir rolün kapanışı, yeni form için yer açma.",
+      "yesNo": "BELKİ, eski bitmeden yeni başlamaz."
+    },
+    "reversed": {
+      "general": "Ölüm ters geldiğinde dönüşüme direnme var demektir. Bitmesi gereken bir şey hala tutuluyor, bırakmak yas gerektiriyor, bu yas erteleniyor. Geçişi reddetmek geçişi durdurmaz, sadece uzatır.",
+      "love": "Biten bir bağa tutunma, ya da yeni başlamasına izin vermeme.",
+      "career": "Eski rolün korunması, dönüşümü kabul edememe, eskiye bağlılık."
+    },
+    "image": "/img/cards/13-death.webp",
+    "thumbnail": "/img/cards/thumbs/13-death.webp"
+  },
+  {
+    "id": "14-temperance",
+    "number": 14,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "ILIMLILIK",
+    "nameEN": "Temperance",
+    "element": "Ateş",
+    "planet": "Yay",
+    "keywords": [
+      "denge",
+      "sentez",
+      "sabır",
+      "akış"
+    ],
+    "upright": {
+      "general": "Ilımlılık kartında bir melek iki kupa arasında suyu döker, bir ayağı toprakta bir ayağı suda. Bu kart iki zıt unsurun bir üçüncüsünde sentezini söyler, ne tam buradan ne tam oradan, ortadan akan ince bir su. Yay genişliği vardır, uzun yola uygun temposu. On dört sayısı sabırla yapılan ustalıktır, gece bir gün ısınmış kor. Bu kart sana acele edilmeyecek bir karışımın içinde olduğunu, doğru oran bulununca akışın kendiliğinden geleceğini söyler.",
+      "love": "İki tarafın birbirine alışması, sabır ve uyum dolu bir döngü.",
+      "career": "Farklı becerilerin bir araya gelmesi, ekip içinde uyum, ölçülü ilerleme.",
+      "yesNo": "EVET, ama yavaş ve dengeli."
+    },
+    "reversed": {
+      "general": "Ilımlılık ters döndüğünde dengesini kaybetmiş bir karışım var demektir. Bir uça savrulmak, ya hepsi ya hiç tavrı, sabırsızlık. Karışım kıvamını ancak duraksayarak bulur.",
+      "love": "Bağda denge bozulmuş, ritim tutmuyor, biri ileri biri geri.",
+      "career": "Aşırı yüklenme ya da motivasyon kaybı, uçlar arasında salınım."
+    },
+    "image": "/img/cards/14-temperance.webp",
+    "thumbnail": "/img/cards/thumbs/14-temperance.webp"
+  },
+  {
+    "id": "15-the-devil",
+    "number": 15,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "ŞEYTAN",
+    "nameEN": "The Devil",
+    "element": "Toprak",
+    "planet": "Oğlak",
+    "keywords": [
+      "bağımlılık",
+      "gölge",
+      "tutku",
+      "fark ediş"
+    ],
+    "upright": {
+      "general": "Şeytan tahta bir küpün üstünde oturur, ayaklarının dibinde iki figür gevşek zincirlerle bağlı. Bu kart bir iblis değildir, kendi gölgendir, fark etmediğin bağlanmandır. Zincirler gevşek, yani aslında çıkarılabilir, ama kişi onları takılı bırakmayı seçiyor. Toprak elementi maddeye, bedene, somut bağımlılığa işaret eder. Bu kart sana bir alışkanlığın, bir ilişkinin, bir düşünce kalıbının görünür hale geldiğini, tanınmayı beklediğini söyler. Görmek ilk adım, çözmek ondan sonra gelir.",
+      "love": "Yoğun çekim ama bağ rahatsız edici, biri diğerinin gölgesini sahipleniyor.",
+      "career": "Para ya da statü uğruna kendi değerini ezmek, ya da konfor alanına saplanma.",
+      "yesNo": "HAYIR, eğer bağ özgür değilse."
+    },
+    "reversed": {
+      "general": "Şeytan ters geldiğinde uzun süredir farkında olmadığın bir bağın artık görünür hale geldiğini söyler. Düşen zincirler iyi haber, ama hemen ardından gelen boşluk hissi var, çünkü bağ aynı zamanda bir sığınaktı. Yer açılıyor, doldurmaya acele etme.",
+      "love": "Kurtulma süreci başladı, ama yeni bağa hızla atlama eski örüntüyü taşır.",
+      "career": "Beni boğan iş ya da rolden çıkış, sersemlik normal bir geçiş hissi."
+    },
+    "image": "/img/cards/15-the-devil.webp",
+    "thumbnail": "/img/cards/thumbs/15-the-devil.webp"
+  },
+  {
+    "id": "16-the-tower",
+    "number": 16,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "KULE",
+    "nameEN": "The Tower",
+    "element": "Ateş",
+    "planet": "Mars",
+    "keywords": [
+      "yıkım",
+      "açığa çıkış",
+      "sarsıntı",
+      "boşaltma"
+    ],
+    "upright": {
+      "general": "Kule yıldırımla vurulmuş, taç düşüyor, iki figür düşmenin ortasında. Bu kart felaket değil, gerçeği örten yapının çatlamasıdır. Sallanan duvar zaten temelsizdi, yıldırım sadece görünür kıldı. Mars hızı vardır, ani ve net. Yıkımın ardından açıkta kalmak korkutucu, ama açıkta kalmak görmenin de başlangıcıdır. Bu kart sana bir illüzyonun çatlamak üzere olduğunu, sarsıntının özüne dokunmayan bir şeyi temizlemek için geldiğini söyler.",
+      "love": "Bir gerçek açığa çıkıyor, bağ ya gerçekle yenileniyor ya yapısı çöküyor.",
+      "career": "Beklenmedik bir değişim, kalıbı kıran bir haber, eskinin temizlenmesi.",
+      "yesNo": "BELKİ, sarsıntıdan sonra yeniden değerlendir."
+    },
+    "reversed": {
+      "general": "Kule ters geldiğinde sarsıntı erteleniyor ya da iç sarsıntı dış görünmeden olup bitiyor demektir. Yıkım küçük dozda, içeride. Çatlağı kabul etmek, görmezden gelmekten her zaman daha az acılıdır.",
+      "love": "Sürmesi mümkün olmayan bir bağı zorla taşımak, ya da sessiz bir kopuş.",
+      "career": "Çökme korkusu adım atmayı engelliyor, ya da sezilen değişimi kabullenmeme."
+    },
+    "image": "/img/cards/16-the-tower.webp",
+    "thumbnail": "/img/cards/thumbs/16-the-tower.webp"
+  },
+  {
+    "id": "17-the-star",
+    "number": 17,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "YILDIZ",
+    "nameEN": "The Star",
+    "element": "Hava",
+    "planet": "Kova",
+    "keywords": [
+      "umut",
+      "şifa",
+      "ilham",
+      "açıklık"
+    ],
+    "upright": {
+      "general": "Yıldız çıplak bir kadın gece göğünün altında diz çökmüş, bir elindeki testidiki suyu toprağa diğerindekini havuza döküyor. Yedi yıldız etrafta sessizce parlıyor, en büyüğü merkezde. Kule sarsıntısından sonra Yıldız gelir, çünkü yıkımın ardından gökyüzü görünür. Bu kart şifanın yavaş ama sürekli aktığı bir alanda olduğunu, derin bir nefes alacağın bir aralıkta durduğunu söyler. Kova havası serindir, yenilenir, gelecek bir kavramı zihne taşır.",
+      "love": "Yumuşak ve umut dolu bir döngü, bağın iyileşmeye yer açtığı bir an.",
+      "career": "İlham açıkta, vizyon netleşiyor, uzun vadeli bir yön kendini gösteriyor.",
+      "yesNo": "EVET, hafif ve açık."
+    },
+    "reversed": {
+      "general": "Yıldız ters döndüğünde umut perdelenmiş, su akmıyor demektir. İçindeki ışığı dışarıdan onaya bağlamak, ya da geçici bir karamsarlığa yapışıp asıl ışığı görmemek. Şifa hala mevcut, sadece görmek için karanlığa biraz daha alışmak gerekiyor.",
+      "love": "Beklentinin yerini hayal kırıklığı alıyor olabilir, ama bağda hala su mevcut.",
+      "career": "Vizyon bulanık, ilham geçici, biraz dinlenme yenilenmeyi getirir."
+    },
+    "image": "/img/cards/17-the-star.webp",
+    "thumbnail": "/img/cards/thumbs/17-the-star.webp"
+  },
+  {
+    "id": "18-the-moon",
+    "number": 18,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "AY",
+    "nameEN": "The Moon",
+    "element": "Su",
+    "planet": "Balık",
+    "keywords": [
+      "belirsizlik",
+      "rüya",
+      "bilinçaltı",
+      "sezgi"
+    ],
+    "upright": {
+      "general": "Ay gökyüzünde dolunay olarak asılı, altında iki kule, ortada uzun bir yol, sularda bir yengeç. Köpek ile kurt aynı sese ulur, evcil ile vahşi aynı kanaldan içeri sızar. Balık suyu derin ve çok katmanlı, ne tam görünür ne tam saklı. Bu kart belirsizliğin içinde duruyorsun, görünenin altında daha fazlası var, ama her şey henüz net değil. Korku ile sezgi aynı kanaldan konuşur, ikisini ayırt etmek dikkat ister.",
+      "love": "Söylenmemiş duygular, anlatılmamış bir geçmiş, yüzeyin altında akan bir sis.",
+      "career": "Henüz açıklanmamış bilgiler, projenin tüm tarafını henüz görmüyorsun.",
+      "yesNo": "BELKİ, görünenle yetinme."
+    },
+    "reversed": {
+      "general": "Ay ters döndüğünde sis dağılmaya başlıyor, ya da tam tersi, sis daha da kalınlaştı. Korkuların gerçek hayata dair sandığın kadar büyük olmadığını fark etmek, ya da kendini aldatmaya devam etmek. İki uç da bilincin yüzeye çıkma çağrısı.",
+      "love": "Bir aldanma açığa çıkıyor, ya da tam tersi, kendi şüphenin gerçek olmadığını görüyorsun.",
+      "career": "Gizli bir bilgi netleşiyor, perde aralanmaya başladı."
+    },
+    "image": "/img/cards/18-the-moon.webp",
+    "thumbnail": "/img/cards/thumbs/18-the-moon.webp"
+  },
+  {
+    "id": "19-the-sun",
+    "number": 19,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "GÜNEŞ",
+    "nameEN": "The Sun",
+    "element": "Ateş",
+    "planet": "Güneş",
+    "keywords": [
+      "sevinç",
+      "berraklık",
+      "canlılık",
+      "açıklık"
+    ],
+    "upright": {
+      "general": "Güneş kartında bir çocuk beyaz bir at üstünde, çıplak ve serbest, başında çiçek tacı, arkasında ayçiçeği duvarı. Ay'ın sisinden çıktıktan sonra Güneş gelir, gerçek olduğu gibi görünür. Bu kart kalbin sıcak, zihnin berrak olduğu bir döneme işaret eder. İçindeki çocuk konuşur burada, hesapsız sevinç, gizlenmemiş varlık, kendin olmaktan utanmamak. Ateş elementi canlılık ve yaratım enerjisi, içeride yanan kor doğrudan dışarıya yansır.",
+      "love": "Açık ve sıcak bir bağ, gizlenmesi gerekmeyen bir mutluluk.",
+      "career": "Görünürlük, başarının açığa çıkması, yaratıcılığın takdir görmesi.",
+      "yesNo": "EVET, parlak ve net."
+    },
+    "reversed": {
+      "general": "Güneş ters döndüğünde sevinç gölgelenmiş ya da içerideki ışık dışarıya akmakta zorlanıyor demektir. Sevinmeye izin vermemek, başarıyı küçümsemek, ya da geçici bir bulutun gerçek hava olduğunu sanmak. Güneş hala orada, sadece bir gün bulutlu.",
+      "love": "Mutluluk var ama paylaşılmıyor, ya da geçici bir gölge bağı kapatıyor.",
+      "career": "Başarı görünmüyor olabilir, ya da kendin görmüyor olabilirsin."
+    },
+    "image": "/img/cards/19-the-sun.webp",
+    "thumbnail": "/img/cards/thumbs/19-the-sun.webp"
+  },
+  {
+    "id": "20-judgement",
+    "number": 20,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "YARGILAMA",
+    "nameEN": "Judgement",
+    "element": "Ateş",
+    "planet": "Plüton",
+    "keywords": [
+      "uyanış",
+      "çağrı",
+      "yenilenme",
+      "fark ediş"
+    ],
+    "upright": {
+      "general": "Yargılama kartında bulutların arasından bir melek borusunu öttürür, aşağıda kollarını kaldırmış figürler tabutlarından doğrulur. Bu kart bir mahkeme değildir, bir uyanıştır. Uzun süredir uyuyan bir kısmın çağrıyı duyduğu, kendini yeniden tanıdığı bir an. Plüton derinden gelir, yıkmaz, dönüştürür. Geçmişe dönüp bakmak, kim olduğunu yeniden onaylamak, hayatının bir bölümünü kapatıp özünü kabul etmek. Çağrı geldiğinde duymak ihtiyari, cevap vermek seçimle.",
+      "love": "Eski bir bağa dönüş ya da yeni bir farkındalıkla bağa girmek, içsel onay.",
+      "career": "Bir misyonun çağrısı, gerçek yöne dönüş, geçmişin değerinin görünmesi.",
+      "yesNo": "EVET, çağrı net."
+    },
+    "reversed": {
+      "general": "Yargılama ters geldiğinde çağrı duyulmuş ama henüz cevap verilmemiş demektir. Kendini yargılamak ya da geçmişin yükünü bırakamamak, aynı eşikte takılma. Çağrı tekrarlanır, dinlemek için sessizlik gerekir.",
+      "love": "Eski bir bağa kapanış sağlanmamış, ya da yeni bir form için hazırlık tamamlanmamış.",
+      "career": "Misyon belli ama adım atılmıyor, kendine dair eski yargı yolu kapatıyor."
+    },
+    "image": "/img/cards/20-judgement.webp",
+    "thumbnail": "/img/cards/thumbs/20-judgement.webp"
+  },
+  {
+    "id": "21-the-world",
+    "number": 21,
+    "arcana": "major",
+    "suit": null,
+    "nameTR": "DÜNYA",
+    "nameEN": "The World",
+    "element": "Toprak",
+    "planet": "Satürn",
+    "keywords": [
+      "tamamlanma",
+      "bütünlük",
+      "döngü sonu",
+      "ustalaşma"
+    ],
+    "upright": {
+      "general": "Dünya kartında çıplak bir figür yeşil bir çelenkin içinde dans eder, dört köşede dört yaratık döngünün dört yüzünü tutar. Bu Major Arkana'nın son kartıdır, döngünün tamamlandığı, içsel parçaların bir araya geldiği yerdir. Toprak elementi somutluk verir, bu sadece bir his değil, görünür biçim. Bu kart bir başarının, bir bütünlüğün, bir aşamanın olgunlukla kapandığını söyler. Tamamlanma sonun değil, yeni bir oktavın başlangıcının habercisidir.",
+      "love": "Bağın olgun bir biçime ulaşması, bütünleşmenin somut olarak hissedilmesi.",
+      "career": "Bir projenin tamamlanması, bir döngünün kapanışı, hak edilmiş tanınma.",
+      "yesNo": "EVET, döngü kendi kapanışını getiriyor."
+    },
+    "reversed": {
+      "general": "Dünya ters döndüğünde tamamlanmamış bir şey var demektir. Eşiği geçmek üzeresin ama son adım atılmıyor, ya da tamamlandığını ilan etmeden yenisine atlama eğilimi var. Kapanışa hak ettiği zaman vermek, dersi bütünüyle almak.",
+      "love": "Bağ neredeyse olgun ama eksik bir parça hala konuşulmayı bekliyor.",
+      "career": "Proje yüzde doksanda, kalan kısmı atlama eğilimi yeni döngüye gölge düşürür."
+    },
+    "image": "/img/cards/21-the-world.webp",
+    "thumbnail": "/img/cards/thumbs/21-the-world.webp"
+  },
+  {
+    "id": "cups-01-ace",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Kupa Ası",
+    "nameEN": "Ace of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "yeni duygu",
+      "açılan kalp",
+      "saf sezgi",
+      "duygusal başlangıç"
+    ],
+    "upright": {
+      "general": "Buluttan uzanan bir el, beş ağzından su taşan altın bir kupa tutuyor, aşağıda nilüferler açıyor. Kupa Ası kalbin yeniden doluşunun kartı, içeride bir pınarın yeniden açılması. Ne hissedeceğini bilmediğin yepyeni bir duygunun ilk damlası geldi, taşmasına izin vermek senin elinde.",
+      "love": "Yeni bir bağ, yeni bir yumuşama, ya da varolan ilişkide kalbin yeniden açılması.",
+      "career": "Yaratıcı bir alanda içten gelen bir dürtü, ruhuna iyi gelecek bir teklif.",
+      "yesNo": "EVET, kalp dolup taşıyor"
+    },
+    "reversed": {
+      "general": "Kupa devrik, su yere akıyor. Henüz hissetmek istemediğin ya da bastırılmış bir duygu var, kalp kapısı kilitli kalmış. Bu kart kötü haber değil, sadece içeride biriken duygunun kendine yer aradığını söylüyor.",
+      "love": "Duyguları paylaşmakta zorluk, içe kapanma, fakat hâlâ orada duran sevgi.",
+      "career": "Yaratıcılığın tıkandığı bir dönem, ilhama erişimin geçici olarak yavaşlaması."
+    },
+    "image": "/img/cards/cups-01-ace.webp",
+    "thumbnail": "/img/cards/thumbs/cups-01-ace.webp"
+  },
+  {
+    "id": "cups-02-two",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "İki Kupa",
+    "nameEN": "Two of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "karşılıklılık",
+      "bağ kurma",
+      "uyum",
+      "ortak yemin"
+    ],
+    "upright": {
+      "general": "İki figür birbirine kupa uzatıyor, aralarında kanatlı aslan başı, üstünde iki yılanlı asa. İki Kupa eşit alışverişin kartı, iki kalbin aynı anda aynı şeye \"evet\" demesi. Bir ilişki, bir ortaklık, bir dostluk, ne biçimde olursa olsun karşılıklılığın doğduğu yer.",
+      "love": "Karşılıklı çekim, dengeli bir bağın başlangıcı, anlaşılan biri.",
+      "career": "Sağlıklı bir iş ortaklığı, birlikte çalışmanın yol açtığı yumuşak güç.",
+      "yesNo": "EVET, karşılıklılık var"
+    },
+    "reversed": {
+      "general": "Kupalardan biri eğilmiş, denge bozulmuş. Bağda bir taraf daha çok veriyor, ya da iletişim aynı dilden konuşmuyor. Kopma değil bu, ayar isteyen bir bağ, konuşmamış olanın konuşma zamanı geldi.",
+      "love": "Dengesiz beklentiler, küçük yanlış anlaşılmalar, geri çekilen taraf.",
+      "career": "Ortaklıkta görünmeyen bir gerilim, rollerin yeniden netleşmesi gereken an."
+    },
+    "image": "/img/cards/cups-02-two.webp",
+    "thumbnail": "/img/cards/thumbs/cups-02-two.webp"
+  },
+  {
+    "id": "cups-03-three",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Üç Kupa",
+    "nameEN": "Three of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "kutlama",
+      "kabile hissi",
+      "sevinç",
+      "topluluk"
+    ],
+    "upright": {
+      "general": "Üç kadın kupalarını yukarı kaldırmış, ayaklarının dibinde meyveler, etraflarında bolluk. Üç Kupa paylaşılan sevincin kartı, bir şeyin tamamlandığını birlikte selamlamanın anı. Bu enerjiyi tek başına yaşamak değil, ait olduğun küçük çemberle birlikte içmek üzere geldin.",
+      "love": "Sıcak, hafif, eğlenceli bir dönem, çevrenin ilişkine olumlu dokunması.",
+      "career": "Bir başarının kutlanması, takım çalışmasının meyvesi.",
+      "yesNo": "EVET, sevinç birlikte"
+    },
+    "reversed": {
+      "general": "Kupalar dağılmış, kutlama yorgunluğa dönmüş. Sosyal hayatın seni doldurmak yerine yorması, ya da yüzeysel ilişkilerin asıl ihtiyacın olan derinliği örtmesi söz konusu. Çevreni sevmiyorsun, sadece çemberde bir iç ses sus diyor.",
+      "love": "Üçüncü bir kişinin gölgesi, dedikodu, ya da sosyal baskı içinde sıkışmış bağ.",
+      "career": "Takım içinde kayma, kıskançlık, paylaşılmayan başarı."
+    },
+    "image": "/img/cards/cups-03-three.webp",
+    "thumbnail": "/img/cards/thumbs/cups-03-three.webp"
+  },
+  {
+    "id": "cups-04-four",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Dört Kupa",
+    "nameEN": "Four of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "içe çekilme",
+      "tatminsizlik",
+      "kaçırılan teklif",
+      "duygusal donma"
+    ],
+    "upright": {
+      "general": "Bir ağacın altında kollarını kavuşturmuş figür, önünde üç kupa, dördüncüsü buluttan uzanan bir elin sunduğu. Dört Kupa görmeden geçirmenin kartı, gözünün önündeki şeyi fark edemeyecek kadar içeride olduğun an. Tatminsizlik değil bu hep, bazen sadece dikkatin başka yerde.",
+      "love": "İlişkide tatminsizlik, ya da hayatına sunulan birini henüz görememek.",
+      "career": "Mevcut işten kopma hissi, sıkıcı rutinden duyulan boğulma.",
+      "yesNo": "BELKİ, fark edemiyorsun"
+    },
+    "reversed": {
+      "general": "Figür başını kaldırıyor, gözleri açılıyor. İçe çekildiğin dönem sona eriyor, dünyanın sana hâlâ bir şey uzattığını yeniden görmeye başlıyorsun. Yeni bir teklife, yeni bir teklife eski direnç çözülüyor.",
+      "love": "Yeniden ilgi duyma, kapalı kalbin aralanması, fırsatı görme.",
+      "career": "Motivasyonun geri dönmesi, kabul edilen yeni bir teklif ya da yön."
+    },
+    "image": "/img/cards/cups-04-four.webp",
+    "thumbnail": "/img/cards/thumbs/cups-04-four.webp"
+  },
+  {
+    "id": "cups-05-five",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Beş Kupa",
+    "nameEN": "Five of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "kayıp",
+      "yas",
+      "kalan iki",
+      "gözden kaçan"
+    ],
+    "upright": {
+      "general": "Siyah pelerinli figür önündeki üç devrik kupaya bakıyor, arkasındaki iki kupayı görmüyor, ileride bir köprü ve bir ev var. Beş Kupa yas kartı, dökülen şeyle yüzleşmenin anı. Ama kart aynı zamanda dikkatini çağırıyor, arkanda hâlâ ayakta duranı henüz fark etmedin.",
+      "love": "Bir hayal kırıklığı, bitmiş bir bağın yası, ama tamamen biten değil.",
+      "career": "Başarısız bir girişimden sonra geriye bakmak, kalanı henüz görememek.",
+      "yesNo": "HAYIR, ama her şey kayıp değil"
+    },
+    "reversed": {
+      "general": "Figür arkasını dönüyor, ayakta duran iki kupayı fark ediyor. Yas yumuşuyor, kalanın değeri görünür hale geliyor. Bu kart \"unut\" demiyor, \"kaybın yanında neyin durduğunu da gör\" diyor.",
+      "love": "Eski bir kırgınlığın affedilmesi, ilişkide yeniden onarım.",
+      "career": "Kayıptan ders çıkarma, geriye kalan kaynaklarla yeni bir adım."
+    },
+    "image": "/img/cards/cups-05-five.webp",
+    "thumbnail": "/img/cards/thumbs/cups-05-five.webp"
+  },
+  {
+    "id": "cups-06-six",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Altı Kupa",
+    "nameEN": "Six of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "nostalji",
+      "çocukluk",
+      "şefkat",
+      "geri dönen"
+    ],
+    "upright": {
+      "general": "Bir avlu, bir büyük figür küçüğüne çiçek dolu kupa uzatıyor, etraf güvenli ve yumuşak. Altı Kupa içindeki çocuğun kartı, geçmişin sıcak bir anının ya da bir kişinin geri dönmesi. İçeride saf, korunaklı bir alan açılıyor, oraya girmek iyileştirici.",
+      "love": "Eski bir tanış, ilk aşkın hatırlanması, ya da ilişkide tekrar saflık.",
+      "career": "Geçmişten gelen bir bağlantının yeniden iş olması, bilinen bir alana dönüş.",
+      "yesNo": "EVET, tatlı bir geri dönüş"
+    },
+    "reversed": {
+      "general": "Geçmişe takılı kalmak ya da nostaljinin perdesi şimdiki ânı kapatıyor. Geri dönmek yerine ilerlemek gereken yerde geriye bakmak, ya da büyümeye direnen bir taraf var. Çocukluk güzeldi, ama bugün başka bir gün.",
+      "love": "Eskiyi idealleştirmek, biten bir ilişkiye gereksiz takılma.",
+      "career": "Konfor alanından çıkamamak, eski rolde fazla kalmak."
+    },
+    "image": "/img/cards/cups-06-six.webp",
+    "thumbnail": "/img/cards/thumbs/cups-06-six.webp"
+  },
+  {
+    "id": "cups-07-seven",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Yedi Kupa",
+    "nameEN": "Seven of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "seçenekler",
+      "hayal",
+      "yanılsama",
+      "berraksızlık"
+    ],
+    "upright": {
+      "general": "Bulutların içinden yedi kupa, her birinde farklı bir görüntü, taç, ejderha, mücevher, kale, çelenk, örtülü bir figür ve bir yılan. Yedi Kupa hayalin ve seçeneğin kartı, hangisinin gerçek hangisinin parıltı olduğunu ayırt etme zamanı. Çok şey istemek paralizdir, gerçekten istediğini bilmek başka.",
+      "love": "Birden fazla seçenek, ya da partneri olduğu gibi değil hayal ettiğin gibi görmek.",
+      "career": "Birden fazla yön, hangi tekliflerin gerçek hangisinin sis olduğunu ayırt etme.",
+      "yesNo": "BELKİ, önce netleş"
+    },
+    "reversed": {
+      "general": "Sis dağılıyor, kupalardan biri öne çıkıyor. Hayalin ve gerçeğin ayrıştığı an, gerçekten neyi istediğini fark ediyorsun. Karar netleşiyor, tek bir yöne odaklanma gücü geri geliyor.",
+      "love": "Net görmek, gerçekçi bir seçim, ilişkideki yanılsamalardan çıkmak.",
+      "career": "Birden fazla seçenek arasından tek bir doğru yöne karar verme."
+    },
+    "image": "/img/cards/cups-07-seven.webp",
+    "thumbnail": "/img/cards/thumbs/cups-07-seven.webp"
+  },
+  {
+    "id": "cups-08-eight",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Sekiz Kupa",
+    "nameEN": "Eight of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "ayrılış",
+      "anlam arayışı",
+      "geride bırakmak",
+      "ay altında yol"
+    ],
+    "upright": {
+      "general": "Ay altında bir figür yığılmış sekiz kupayı arkada bırakıp dağa doğru yürüyor. Sekiz Kupa sessiz ayrılışın kartı, bir araya getirdiğin şeyin artık seni doldurmadığını fark edip yola çıkmak. Kayıp değil bu, olgunluk, kalbin daha derin bir şeye ihtiyaç duyduğunu kabul etmesi.",
+      "love": "Artık beslenmediğin bir ilişkiden adımı atma, ya da bağda derinleşme arayışı.",
+      "career": "Maddi olarak iyi ama ruhuna iyi gelmeyen bir işi geride bırakma.",
+      "yesNo": "EVET, yürümek doğru"
+    },
+    "reversed": {
+      "general": "Figür durup geri dönmeyi düşünüyor, ya da gitmesi gerekirken kalıyor. Ayrılış kararının ertelendiği, bir şeyin bitmesinin uzadığı an. Diğer yandan kalmaya karar verip yeniden anlam bulmak da olabilir, hangisi olduğunu içsesin söylüyor.",
+      "love": "İlişkiyi bitirmekte kararsızlık, ya da gittikten sonra geri dönme.",
+      "career": "İşi bırakmaya hazırlanırken vazgeçmek, ya da kalıp anlamını yeniden bulmak."
+    },
+    "image": "/img/cards/cups-08-eight.webp",
+    "thumbnail": "/img/cards/thumbs/cups-08-eight.webp"
+  },
+  {
+    "id": "cups-09-nine",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Dokuz Kupa",
+    "nameEN": "Nine of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "dilek kartı",
+      "duygusal tatmin",
+      "memnuniyet",
+      "doluluk"
+    ],
+    "upright": {
+      "general": "Memnun, kollarını kavuşturmuş figür, arkasında yarım daire dizilmiş dokuz kupa. Dokuz Kupa dilek kartı diye anılır, duygusal olarak istediğine kavuşmanın anı. Bir şeyin tadını bilinçle çıkarmak, doluluğu kendine yedirmek.",
+      "love": "İstenen birlikteliğin gerçekleşmesi, ilişkide tatmin ve huzur.",
+      "career": "İstediğin teklifin gelmesi, emeğinin maddi ve ruhsal karşılığını alma.",
+      "yesNo": "EVET, dilek kartı"
+    },
+    "reversed": {
+      "general": "Tatmin yüzeyde duruyor, derin bir şey eksik. Dışarıdan baktığında her şey yerinde, ama içeride bir doyumsuzluk var, ya da elindekini görememe. Bu kart \"daha fazlasını iste\" değil, \"sana yetenin değerini fark et\" diyor.",
+      "love": "Yüzeyde mutlu görünen ama derinden boş hissedilen ilişki.",
+      "career": "Maddi tatmin var, anlam yok, ya da kibir yüzünden kayma."
+    },
+    "image": "/img/cards/cups-09-nine.webp",
+    "thumbnail": "/img/cards/thumbs/cups-09-nine.webp"
+  },
+  {
+    "id": "cups-10-ten",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "On Kupa",
+    "nameEN": "Ten of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "aile",
+      "duygusal tamamlanma",
+      "gökkuşağı",
+      "kalıcı huzur"
+    ],
+    "upright": {
+      "general": "Bir çift kollarını gökkuşağına açmış, yanlarında dans eden iki çocuk, arkalarında ev ve nehir, gökyüzünde on kupa kavislenmiş. On Kupa duygusal hayatın tamamlanmasının kartı, kalbinin uzun zamandır aradığı yuvayı bulması. Aile illa ki kan değil, seni evine getiren her şey.",
+      "love": "Uzun vadeli huzur, evlilik, aile kurma, derin uyum.",
+      "career": "İşinden çok ötesinde anlam, çevreni ve ruhunu besleyen bir hayat.",
+      "yesNo": "EVET, gökkuşağı geldi"
+    },
+    "reversed": {
+      "general": "Gökkuşağı bulutların ardında, aile tablosu çizilmiş ama gerçek hissedilmiyor. Aslında istediğin gibi olmayan bir tablo için kendini zorluyor olabilirsin, ya da dış görünüşle iç gerçek ayrışmış. Mutlu olduğunu kanıtlamaya gerek yok, gerçekten huzurlu olmak başka.",
+      "love": "Aile içi gerilim, görüntüde iyi gerçekte uzak ilişki.",
+      "career": "İş ile özel hayat arasındaki dengenin bozulması, evi taşımayan bir tempo."
+    },
+    "image": "/img/cards/cups-10-ten.webp",
+    "thumbnail": "/img/cards/thumbs/cups-10-ten.webp"
+  },
+  {
+    "id": "cups-11-page",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Kupa Uşağı",
+    "nameEN": "Page of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "sezgisel haber",
+      "yaratıcı çocuk",
+      "ince duygu",
+      "şaşırtıcı teklif"
+    ],
+    "upright": {
+      "general": "Renkli giysili genç figür kupasından çıkan bir balığa şaşkınlıkla bakıyor, arkada dalgalı deniz. Kupa Uşağı içindeki sanatçı çocuğun kartı, beklenmeyen bir duygusal haberin ya da ilhamın kapıyı çalması. Mantıklı geleni değil şaşırtanı dinlemenin zamanı.",
+      "love": "Tatlı bir flört teklifi, beklenmeyen bir mesaj, kalp çağrısı.",
+      "career": "Yaratıcı bir fikrin doğuşu, sanatsal bir teklif, oyunlu bir başlangıç.",
+      "yesNo": "EVET, oyunlu bir teklif"
+    },
+    "reversed": {
+      "general": "Genç figürün duyguları içeride sıkışmış, ifade edilemiyor. Duygusal olgunlaşmamışlık, alıngan bir taraf, ya da yaratıcı bir fikrin korkudan dile gelmemesi. Kart gerçekten kötü değil, sadece içerideki çocuğun konuşmaya cesareti olmadığını söylüyor.",
+      "love": "Olgunlaşmamış bir flört, küskünlük, ya da hissi söylemekte zorluk.",
+      "career": "Yaratıcılığın bastırılması, fikri paylaşamamak, alınganlık."
+    },
+    "image": "/img/cards/cups-11-page.webp",
+    "thumbnail": "/img/cards/thumbs/cups-11-page.webp"
+  },
+  {
+    "id": "cups-12-knight",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Kupa Şövalyesi",
+    "nameEN": "Knight of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "romantik teklif",
+      "duygusal arayış",
+      "estetik",
+      "yumuşak hareket"
+    ],
+    "upright": {
+      "general": "Beyaz at ağır ağır yürüyor, miğferinde kanatlar, elinde uzatılmış kupa, arkada bir nehir kıvrılıyor. Kupa Şövalyesi romantik teklifin kartı, kalbin yumuşak, estetik ve şiirsel bir hareketle yola çıkması. Hız değil incelik, savaş değil davet.",
+      "love": "Romantik bir teklif, duyguların yüksek sesle söylendiği an.",
+      "career": "Sanatsal bir teklif, estetik bir proje, ilhamlı bir adım.",
+      "yesNo": "EVET, kalpten bir teklif"
+    },
+    "reversed": {
+      "general": "At durmuş, şövalyenin kupası boş ya da abartılı. Verdiği sözü tutmayan biri, ya da romantizmin gerçeklikle bağı kopuk olabilir. Diğer yandan duygunun olduğu yerde donduğu, harekete geçemediği bir hal de bu.",
+      "love": "Sözünü tutmayan partner, içi boş romantizm, ya da kıpırdamayan duygu.",
+      "career": "Çok hayal az aksiyon, projeyi başlatamamak, gerçek dışı vaatler."
+    },
+    "image": "/img/cards/cups-12-knight.webp",
+    "thumbnail": "/img/cards/thumbs/cups-12-knight.webp"
+  },
+  {
+    "id": "cups-13-queen",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Kupa Kraliçesi",
+    "nameEN": "Queen of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "sezgi",
+      "şefkat",
+      "duygusal olgunluk",
+      "iyileştirici"
+    ],
+    "upright": {
+      "general": "Deniz kıyısında tahtında oturmuş kraliçe, elinde kapalı bir kupa, gözleri kupasına dalmış. Kupa Kraliçesi içindeki şifacının kartı, sezgisi yüksek, duygusal olarak olgun, kendini ve etrafını okuyabilen taraf. Hissetmek zayıflık değil, en derin zekâ biçimi.",
+      "love": "Şefkatli, anlayan bir partner ya da sende açılan o anlayan taraf.",
+      "career": "Empati gerektiren bir alanda parlaman, terapötik ya da yaratıcı iş.",
+      "yesNo": "EVET, içsesin doğru"
+    },
+    "reversed": {
+      "general": "Kraliçe tahtından düşmemiş ama kupası taşıyor, duygu sınırı aşmış. Kendi duygusunu başkasınınkinden ayırmakta zorluk, ya da empatinin tükeniş noktasına gelmesi. Dışarıyı hissetmekten içerini kaybetmemek için sınır çekmek gerek.",
+      "love": "Duygusal taşkınlık, partnerin yükünü kendi yükü gibi taşımak.",
+      "career": "Empati tükenişi, başkalarına vermekten kendine kalan zamanın kalmaması."
+    },
+    "image": "/img/cards/cups-13-queen.webp",
+    "thumbnail": "/img/cards/thumbs/cups-13-queen.webp"
+  },
+  {
+    "id": "cups-14-king",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "cups",
+    "nameTR": "Kupa Kralı",
+    "nameEN": "King of Cups",
+    "element": "Su",
+    "planet": null,
+    "keywords": [
+      "duygusal ustalık",
+      "sakin akıl",
+      "diplomasi",
+      "derin durgunluk"
+    ],
+    "upright": {
+      "general": "Dalgalı denizin ortasında taht, kralın oturuşu sağlam, elinde kupa ve asa, arkada bir balık ve bir gemi. Kupa Kralı duygusal ustalığın kartı, deniz dalgalanırken bile kendi merkezinde durabilen biri. Hissi bastırmaz, hissin onu götürmesine de izin vermez.",
+      "love": "Olgun, dengeli bir partner, ya da ilişkide içine yerleşmiş sakin bir güç.",
+      "career": "Liderlikte diplomasi, kriz anında soğukkanlılık, danışmanlık alanında parlaklık.",
+      "yesNo": "EVET, sakin bir el yönetiyor"
+    },
+    "reversed": {
+      "general": "Tahtın altındaki dalgalar büyümüş, kralın sakinliği kontrole dönmüş ya da çatlamış. Duyguyu inkâr etmek, manipülatif bir yumuşaklık, ya da içerideki fırtınayı dışarıya yansıtmamak için aşırı sıkışmak. Soğukkanlılık ile soğukluk farklı şeyler.",
+      "love": "Duygularını paylaşmayan partner, ya da pasif agresif yumuşaklık.",
+      "career": "Liderlikte duygusal mesafelilik, ekibe ulaşamayan bir kontrolcü ton."
+    },
+    "image": "/img/cards/cups-14-king.webp",
+    "thumbnail": "/img/cards/thumbs/cups-14-king.webp"
+  },
+  {
+    "id": "pentacles-01-ace",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Pentakül Ası",
+    "nameEN": "Ace of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "fırsat",
+      "tohum",
+      "bolluk",
+      "somut başlangıç"
+    ],
+    "upright": {
+      "general": "Buluttan uzanan bir el avcunda altın bir madalyon tutar, aşağıda zambaklı bir bahçe ve kemerli bir geçit görünür. Bu el sana bir fırsat uzatıyor, ama fırsat henüz tohum halinde, almak için elini açman gerekiyor. Para, iş, sağlık, ev, somut bir kaynağın yeni bir kapıdan içeri girdiği an.",
+      "love": "İlişkide istikrar isteyen bir başlangıç, sözden eyleme geçen bir bağ kuruluyor.",
+      "career": "Yeni bir iş, yeni bir gelir kanalı ya da uzun vadeli karşılık veren bir teklif yolda.",
+      "yesNo": "EVET, somut zemin var"
+    },
+    "reversed": {
+      "general": "El madalyonu uzatıyor ama sen henüz almıyorsun. Fırsat geldi geçti ya da gerçeklik kontrolü eksik, kâğıt üstünde güzel görünen şeyin altı boş çıkabilir. Maddi kaygının her şeyi gölgelediği, kazancın elden kayıp gittiği bir dönem de olabilir.",
+      "love": "Güvensizlik ya da maddi kaygı duygusal yakınlığı tıkıyor.",
+      "career": "Vaatler tutmuyor ya da yatırım beklenen karşılığı vermiyor, sözleşmeyi tekrar oku."
+    },
+    "image": "/img/cards/pentacles-01-ace.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-01-ace.webp"
+  },
+  {
+    "id": "pentacles-02-two",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "İki Pentakül",
+    "nameEN": "Two of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "denge",
+      "esneklik",
+      "zamanlama",
+      "çoklu görev"
+    ],
+    "upright": {
+      "general": "Bir genç iki madalyonu sonsuzluk şeridiyle sarılmış halde havada tutar, arkasında dalgalı bir denizde gemiler iniyor çıkıyor. İki şeyi aynı anda dengeliyorsun, iş ve özel hayat, iki proje, iki sorumluluk, ritmi yakaladığın sürece düşmüyor. Esneklik bu kartın özüdür, kontrolü değil akışı tutarsın.",
+      "love": "İlişkiyi başka yüklerle dengelemeye çalıştığın bir dönem, ritmi koru.",
+      "career": "Birden fazla iş ya da görev arasında dans ediyorsun, zamanlama doğru kaldıkça yürür.",
+      "yesNo": "BELKİ, dengeyi tutarsan olur"
+    },
+    "reversed": {
+      "general": "Toplar düşüyor. Çoklu görevin sınırı geldi, biri ihmal edildi ya da hepsi yarım kaldı. Maddi olarak gelir ve gider arasındaki denge bozuldu, bir ayağı kısaltmadan diğeri sağlam durmuyor.",
+      "love": "İlişkiyi başka şeyler için ertelemenin faturası geliyor, partner ihmal edilmiş hissediyor.",
+      "career": "Aşırı yüklenme, prioritize etmeden devam edersen kalite düşer."
+    },
+    "image": "/img/cards/pentacles-02-two.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-02-two.webp"
+  },
+  {
+    "id": "pentacles-03-three",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Üç Pentakül",
+    "nameEN": "Three of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "işbirliği",
+      "ustalık",
+      "ekip",
+      "tanınma"
+    ],
+    "upright": {
+      "general": "Bir usta iskelede çalışıyor, yanında iki kişi planı tutuyor ve onunla konuşuyor, arka planda katedral yükseliyor. İşin tek başına yapılmadığı, ustalığın tanındığı, ekip ve müşteri ile birlikte büyük bir yapının inşa edildiği an. Kalite ortaya çıkıyor çünkü herkes kendi rolünü biliyor.",
+      "love": "İlişkiyi birlikte inşa ettiğiniz, planlarınızın aynı yöne baktığı bir dönem.",
+      "career": "Ekibinde yerin sağlamlaştı, iş üstünde çalıştığın şey görünür hale geliyor.",
+      "yesNo": "EVET, doğru ortakla"
+    },
+    "reversed": {
+      "general": "Ekip uyumu bozuk, herkes farklı yönlere çekiyor ya da ustalık tanınmıyor. Çalışıyorsun ama emeğin görünmüyor, geri bildirim eksik. Detaylar gözden kaçırılmış, sonradan büyük tamiratlar gerekebilir.",
+      "love": "Ortak proje algısı kayboldu, yalnız yürüdüğünü hissediyorsun.",
+      "career": "İletişim eksikliği işin kalitesini düşürüyor, geri dönüp düzeltmek gerekecek."
+    },
+    "image": "/img/cards/pentacles-03-three.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-03-three.webp"
+  },
+  {
+    "id": "pentacles-04-four",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Dört Pentakül",
+    "nameEN": "Four of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "sahiplenme",
+      "güvenlik",
+      "sıkı tutma",
+      "biriktirme"
+    ],
+    "upright": {
+      "general": "Bir figür dört madalyonu sıkı sıkı kucağında, ayağının altında ve başının üstünde tutar, gözleri yorgun ama vermiyor. Sahip olduğunu koruma içgüdüsü, biriktirme, güvenliği maddeye sabitleme. Yapı kuruluyor ama çok sıkı tutulan şey aynı zamanda akmıyor da.",
+      "love": "Duygularını ya da partnerini fazla sıkı tutmanın yakınlaşmayı engellediği bir hat var.",
+      "career": "Pozisyonunu, kaynağını koruma vakti, yeni risklere atılma vakti değil.",
+      "yesNo": "BELKİ, ama tutuculuk frenliyor"
+    },
+    "reversed": {
+      "general": "Sıkı yumruk gevşiyor, bu iki yönlü olabilir. Ya kontrolü bırakıp paylaşmaya, akmaya başlıyorsun, ya da elinden kaynak kayıp gidiyor. Cimriliğin ardından gelen savurganlık ya da uzun süreli koruma refleksinin nihayet çözülmesi.",
+      "love": "Duygusal duvar inmeye başladı ya da tutmaya çalıştığın şey gitti.",
+      "career": "Bütçe sızıntısı, yatırım kaybı ya da nihayet birikmiş kaynağı serbest bırakma cesareti."
+    },
+    "image": "/img/cards/pentacles-04-four.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-04-four.webp"
+  },
+  {
+    "id": "pentacles-05-five",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Beş Pentakül",
+    "nameEN": "Five of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "yoksunluk",
+      "dışlanma",
+      "zorluk",
+      "yardım"
+    ],
+    "upright": {
+      "general": "Karda iki yoksul figür yürür, biri koltuk değnekli, başlarının üstünde ışıklı vitraylı bir kilise penceresi var ama onlar pencereyi görmez. Maddi ya da duygusal bir darlık dönemi, kendini dışarıda bırakılmış hissetme. Yardım yakında ama acı içe baktırıyor, başını kaldırınca pencerenin orada olduğunu görürsün.",
+      "love": "Soğukluk, mesafe, ihmal edilmiş hissetmek, bir yandan bağ devam ediyor.",
+      "career": "İş kaybı, gelir düşüşü ya da değer görmediğin bir pozisyonda olma.",
+      "yesNo": "HAYIR, bu dönem dar"
+    },
+    "reversed": {
+      "general": "En zor dönem geride kaldı, başını kaldırıyorsun ve pencereyi fark ediyorsun. İyileşme, toparlanma, yardım kabul etme. Maddi olarak nefes açıldı ya da uzun süredir taşıdığın yoksunluk hissinin temelinin sandığın kadar gerçek olmadığını görüyorsun.",
+      "love": "İlişkide soğuk dönem yumuşuyor, biri elini uzatıyor.",
+      "career": "İş bulunuyor, borç kapanıyor, döngü kırılıyor."
+    },
+    "image": "/img/cards/pentacles-05-five.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-05-five.webp"
+  },
+  {
+    "id": "pentacles-06-six",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Altı Pentakül",
+    "nameEN": "Six of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "paylaşım",
+      "cömertlik",
+      "denge",
+      "alma ve verme"
+    ],
+    "upright": {
+      "general": "Zengin bir tüccar elinde terazi, diğer elinden iki dilenciye bozuk para dağıtıyor. Verme ile alma arasındaki dengenin kartı, kaynak akıyor ama akış adil ölçüyor. Sen bu kartta ya verensin ya da almaya hazır olansın, hangi rolde olursan ol akış doğru çalışıyor.",
+      "love": "Karşılıklılık var, biri veriyor diğeri alıyor, sıra dengeli dönüyor.",
+      "career": "Hak ettiğin karşılığı alıyorsun ya da emeği layıkıyla ödüllendiren bir konumdasın.",
+      "yesNo": "EVET, denge sağlanır"
+    },
+    "reversed": {
+      "general": "Terazi dengesini kaybetti. Ya sen verirken karşılığını alamıyorsun, ya da almaya alışıp vermeyi unuttun. Borç ilişkileri, güç dengesizliği, cömertliğin ardındaki kontrol arzusu, yardımın bağımlılık yarattığı durumlar.",
+      "love": "Tek taraflı veriş ya da partnerin ekonomik gücüne bağlı bir dinamik.",
+      "career": "Karşılıksız fazla mesai, hak edilen primin verilmemesi ya da ücret pazarlığında zayıf konum."
+    },
+    "image": "/img/cards/pentacles-06-six.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-06-six.webp"
+  },
+  {
+    "id": "pentacles-07-seven",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Yedi Pentakül",
+    "nameEN": "Seven of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "sabır",
+      "değerlendirme",
+      "uzun vade",
+      "ürün"
+    ],
+    "upright": {
+      "general": "Bir çiftçi çapasına yaslanmış, yetiştirdiği bağı izliyor, asmada yedi madalyon parlıyor. Emeğin meyvesi olgunlaşıyor ama henüz toplama vakti değil, durup ne ekildiğine bakıyorsun. Yedinin arayış enerjisi burada sabır olarak konuşur, devam etmek mi yoksa yön değiştirmek mi sorusu masada.",
+      "love": "İlişkide şu ana kadar yatırılan emeği değerlendirme, devam mı yoksa yön mü.",
+      "career": "Uzun vadeli bir projenin ortasındasın, sonuç görünmeye başladı ama daha bekleme gerek.",
+      "yesNo": "BELKİ, sabır gerektirir"
+    },
+    "reversed": {
+      "general": "Sabırsızlık ya da emeğin karşılıksız kaldığı hissi. Çok beklediğin şey gelmedi ya da yanlış yere yatırım yaptığını fark ediyorsun. Bazen de durmadan çalışıp arada başını kaldırıp ne yetiştirdiğini hiç değerlendirmemenin tükenmişliği.",
+      "love": "Yıllar geçti ama ilişki ilerlemedi, durup hesabını yapmanın vakti.",
+      "career": "Yatırım geri dönüş üretmiyor, projeden çekilmek mi pivot mu konuşulmalı."
+    },
+    "image": "/img/cards/pentacles-07-seven.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-07-seven.webp"
+  },
+  {
+    "id": "pentacles-08-eight",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Sekiz Pentakül",
+    "nameEN": "Eight of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "zanaat",
+      "öğrenme",
+      "özveri",
+      "kaliteli iş"
+    ],
+    "upright": {
+      "general": "Bir zanaatkâr tezgâhında oturmuş, tek tek madalyonları işliyor, başının üstünde altısı asılı, biri ayağının dibinde, bir tanesi şu anda elinde. Tekrar üstüne tekrar yapan ustalığın kartı, her iş öncekinden bir gram daha incelmiş çıkıyor. Bu kart geldiğinde odaklanma, öğrenme ve kalite ön planda.",
+      "love": "İlişki üstünde gerçek emek var, küçük ama tutarlı yatırımlar bağı derinleştiriyor.",
+      "career": "Yeni bir beceri, sertifika, eğitim ya da sıkı çalışılan bir alanda ustalaşma vakti.",
+      "yesNo": "EVET, çalışmak şartıyla"
+    },
+    "reversed": {
+      "general": "Ya iş savsaklanıyor ya da tam tersi, ustalık adı altında mükemmeliyetçilik takıntıya dönüştü. Detaylarda boğulmak, asıl resmi unutmak, ya da yapılan işten zevk almadan otomatik tekrara hapsolmak. Bazen de yanlış zanaat, harcanan emek seninkinin değil başkasının hayalini örüyor.",
+      "love": "İlişki için harcadığın emek karşılıksız ya da yanlış yere yöneltilmiş.",
+      "career": "Tükenmişlik, tekrar eden iş motivasyonu söndürdü ya da kalitesizlik fark ediliyor."
+    },
+    "image": "/img/cards/pentacles-08-eight.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-08-eight.webp"
+  },
+  {
+    "id": "pentacles-09-nine",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Dokuz Pentakül",
+    "nameEN": "Nine of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "bağımsızlık",
+      "zarafet",
+      "kendi emeği",
+      "konfor"
+    ],
+    "upright": {
+      "general": "Soylu bir kadın kendi üzüm bağında yürüyor, eldivenli elinde bir şahin, etrafında olgun bir bahçe ve dokuz madalyon. Kendi emeğiyle kurduğu bolluğun içinde, kimseye muhtaç değil, yalnız ama yalnız değil. Bağımsızlığın ve zarafetin kartı, dokuzun tamamlanma enerjisi maddi alanda kendini gösteriyor.",
+      "love": "Yalnız da olsan kendinden hoşnutsun, ilişki seçimden gelir, ihtiyaçtan değil.",
+      "career": "Kendi işini kurdun ya da bağımsız çalışan bir konuma geldin, emek meyveye döndü.",
+      "yesNo": "EVET, kendi gücünle"
+    },
+    "reversed": {
+      "general": "Bağımsızlık görünüşte var ama altında yalnızlık ya da bağımlılık var. Maddi konfor başkasının emeği üstüne kurulu, kendi ayakların üstünde durmuyorsun. Bazen de tam tersi, bağımsızlığı bu kadar abartmışsın ki kimseyi yakına almıyorsun, koruyucu kabuk artık hapse dönüştü.",
+      "love": "Yalnızlık tercih değil, kabuk haline geldi ya da bağımlı bir ilişkide bağımsız taklidi.",
+      "career": "Görünür başarının altında istikrarsız bir gelir ya da başkasının desteği var."
+    },
+    "image": "/img/cards/pentacles-09-nine.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-09-nine.webp"
+  },
+  {
+    "id": "pentacles-10-ten",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "On Pentakül",
+    "nameEN": "Ten of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "miras",
+      "aile",
+      "kalıcı bolluk",
+      "kuşaklar"
+    ],
+    "upright": {
+      "general": "Yaşlı bir adam köpekleriyle birlikte avlunun kenarında, arkasında genç bir çift, ortada bir çocuk, etrafa serpilmiş on madalyon evin kemerlerine işlenmiş. Sadece kendin için değil, kuşaklar için kurulan bolluğun kartı, miras, aile evi, uzun vadeli güvenlik. Onun tamamlanma enerjisi maddi düzlemde kök salıyor.",
+      "love": "Uzun vadeli, aileyle bütünleşen, evlilik ya da yuva kuran bir ilişki.",
+      "career": "Kalıcı, kurumsal, emekliliğe kadar taşıyan bir konum ya da aile işi.",
+      "yesNo": "EVET, uzun vadeli"
+    },
+    "reversed": {
+      "general": "Aile yapısında çatlak, miras kavgası ya da geleneklerin ağırlığının bireyi sıktığı bir yer. Bazen de kurulan kalıcılık aslında alışkanlığa dönüşmüş, hayat akmıyor sadece sürüyor. Maddi güvenliği aileye bağlamak özgürlüğe ket vurabilir.",
+      "love": "Aile baskısı ya da geleneksel beklenti ilişkiyi sıkıştırıyor.",
+      "career": "Kurumsal yapıda hareket alanı yok, miras işin yükü omuzlarda."
+    },
+    "image": "/img/cards/pentacles-10-ten.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-10-ten.webp"
+  },
+  {
+    "id": "pentacles-11-page",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Pentakül Uşağı",
+    "nameEN": "Page of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "öğrenci",
+      "yeni proje",
+      "merak",
+      "somut adım"
+    ],
+    "upright": {
+      "general": "Genç bir figür yeşil bir tarlada duruyor, iki eliyle bir madalyonu yukarı kaldırmış, ona ciddiyetle bakıyor. Yeni bir alana öğrenci olarak girmenin kartı, henüz uzman değilsin ama ciddisin, somut adımları öğrenmeye hazırsın. Çalışkan, sabırlı, gerçeklikten kopmayan başlangıç enerjisi.",
+      "love": "Yavaş ama gerçek bir başlangıç, somut adımlarla ilerleyen tanışma.",
+      "career": "Yeni iş, staj, eğitim, yeni bir alana ciddi giriş.",
+      "yesNo": "EVET, yavaş ama sağlam"
+    },
+    "reversed": {
+      "general": "İhtiyaç var ama ciddiyet eksik, planlar var ama eyleme geçmiyor. Erteleme, hayal kuruculuk, gerçeklikten kopuk hedefler. Bazen de yeni bir şey öğrenmek için fazla acele, temeli atmadan üst kata çıkmaya kalkışmak.",
+      "love": "Olgunlaşmamış yaklaşım ya da somut adım atmaktan kaçınma.",
+      "career": "Eğitim yarım kaldı, plan kâğıtta, uygulama yok."
+    },
+    "image": "/img/cards/pentacles-11-page.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-11-page.webp"
+  },
+  {
+    "id": "pentacles-12-knight",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Pentakül Şövalyesi",
+    "nameEN": "Knight of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "istikrar",
+      "metod",
+      "yavaş ilerleme",
+      "güvenilirlik"
+    ],
+    "upright": {
+      "general": "Siyah bir yağız atın üstünde duran şövalye sakin, elinde bir madalyon, hareket etmiyor neredeyse. Tüm şövalyelerin en yavaşı, en metodiği, en güvenilirisi. Hızlı atılım yok ama her adım hesaplı, vaadini tutar, işini sonuna kadar götürür. Sıkıcı görünür, güvenilirdir.",
+      "love": "Sözünde duran, istikrarlı, romantik gösteri yapmayan ama hep orada olan bir partner.",
+      "career": "Uzun vadeli proje, rutin iş, sabırla ilerleyen kariyer hattı.",
+      "yesNo": "EVET, ama yavaş gelir"
+    },
+    "reversed": {
+      "general": "Aşırı yavaşlama, durağanlık, rutinin sıkıcılığa dönüşmesi. Hareket etmeyen şövalye artık şövalye değil bir heykeldir, esneklik kaybolmuş, değişime direnç var. Bazen de tam tersi, sorumsuzluk ve verilen sözün tutulmaması.",
+      "love": "İlişki donuk, yenilik yok, alışkanlık duyguların yerini almış.",
+      "career": "Kariyer durdu, terfi gelmiyor ya da iş hayatın geri kalanını boğuyor."
+    },
+    "image": "/img/cards/pentacles-12-knight.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-12-knight.webp"
+  },
+  {
+    "id": "pentacles-13-queen",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Pentakül Kraliçesi",
+    "nameEN": "Queen of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "bereket",
+      "annelik",
+      "pratiklik",
+      "bedensel zeka"
+    ],
+    "upright": {
+      "general": "Bahçesinde tahtında oturuyor, kucağında madalyon, ayağının dibinde bir tavşan, etrafı çiçeklenmiş. Hem üreten hem besleyen, hem işini yöneten hem evini tutan, pratik aklın ve bedensel zekânın kartı. Konforu, rahatlığı, sıcaklığı yaratmayı bilir, ama bunu sertlikle değil sezgiyle yapar.",
+      "love": "Sıcak, besleyen, ayakları yere basan partner ya da ilişki dinamiği.",
+      "career": "Kendi işini yönetme, ev temelli iş, beslenme sağlık doğa alanlarında ustalık.",
+      "yesNo": "EVET, sıcak ve sağlam"
+    },
+    "reversed": {
+      "general": "Kendine bakmayı unutan bir bakım veren. Herkesi besler, kendini açta bırakır. Bazen de tam tersi, maddi güvenliği o kadar önemsemiş ki ruhsal alanı kurumuş, konfor kabuğa dönüşmüş. Pratik aklın aşırı dozu duygusal zekâyı bastırabilir.",
+      "love": "Anne rolüne sıkışmış ilişki ya da maddi takas duygusal yakınlığın yerine geçmiş.",
+      "career": "İş hayatın özel hayatını yedi ya da tam tersi, evden çıkmadan kapanma."
+    },
+    "image": "/img/cards/pentacles-13-queen.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-13-queen.webp"
+  },
+  {
+    "id": "pentacles-14-king",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "nameTR": "Pentakül Kralı",
+    "nameEN": "King of Pentacles",
+    "element": "Toprak",
+    "planet": null,
+    "keywords": [
+      "bolluk",
+      "otorite",
+      "iş zekası",
+      "kalıcı başarı"
+    ],
+    "upright": {
+      "general": "Üzüm salkımları işlenmiş bir cübbe içinde tahtında oturuyor, bir elinde asa diğerinde madalyon, arkasında şatosu ve bağı. Maddi alanda zirveye ulaşmış kralın kartı, kendi imparatorluğunu kurmuş, kaynaklarını yönetiyor, başkalarına da iş veriyor. Sertlik değil, ağırlık var, gücün sessiz versiyonu.",
+      "love": "Olgun, koruyup besleyen, sözünün arkasında duran, maddi olarak güvenli partner.",
+      "career": "Kendi işinin patronu, üst düzey yönetici, yatırım ya da gayrimenkulle başarı.",
+      "yesNo": "EVET, sağlam zemin"
+    },
+    "reversed": {
+      "general": "Para gücü bilgeliğin yerine geçmiş, statü ve mülkiyet kişiliğin tamamı haline gelmiş bir hal. Kontrol takıntısı, açgözlülük ya da maddi başarıya rağmen iç boşluk. Bazen de tam tersi, finansal kararlar dağılmış, kontrol kayboldu, yatırımlar kötü yönetiliyor.",
+      "love": "Maddiyatın ilişkiyi tanımladığı, statü pazarlığı ile yürüyen bir bağ.",
+      "career": "Yönetim hatası, kötü yatırım ya da işin sahibi olduğun halde kontrolü kaybetme."
+    },
+    "image": "/img/cards/pentacles-14-king.webp",
+    "thumbnail": "/img/cards/thumbs/pentacles-14-king.webp"
+  },
+  {
+    "id": "swords-01-ace",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Kılıç Ası",
+    "nameEN": "Ace of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "netlik",
+      "hakikat",
+      "karar",
+      "zihinsel atılım"
+    ],
+    "upright": {
+      "general": "Buluttan çıkan bir el, dimdik tek bir kılıç tutuyor, ucunda taç, dalında defne. Kafanın içinde aylardır dağılan parçalar bir araya geliyor, sis dağılıyor, sözcük yerine oturuyor. Bir hakikati artık görüyorsun, görmek de yetmiyor, dile getirmenin sırası geldi.",
+      "love": "Bir konuyu açıkça konuşma, gerçek niyetini söyleme zamanı geldi.",
+      "career": "Net bir karar, keskin bir fikir, doğru sözle açılan kapı.",
+      "yesNo": "EVET, hakikat senden yana"
+    },
+    "reversed": {
+      "general": "Kılıç ters dönmüş, keskin uç aşağıya bakıyor. Zihin dağınık, doğru bildiğin şeyi söyleyemiyor ya da söyledin ama yanlış kelimelerle çıktı. Karar erteleniyor, bilgi var ama düzene girmiyor.",
+      "love": "Söylenmemiş bir şey havayı bulanıklaştırıyor, henüz cümle olmamış bir his var.",
+      "career": "Bir karar ertelenmiş ya da iletişim yanlış kanaldan akıyor."
+    },
+    "image": "/img/cards/swords-01-ace.webp",
+    "thumbnail": "/img/cards/thumbs/swords-01-ace.webp"
+  },
+  {
+    "id": "swords-02-two",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "İki Kılıç",
+    "nameEN": "Two of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "ikilem",
+      "tarafsızlık",
+      "askıya alınma",
+      "iç dengeleme"
+    ],
+    "upright": {
+      "general": "Gözleri bağlı bir figür, iki kılıcı göğsünde çapraz tutuyor, arkasında dingin bir su. İki seçenek arasında oturuyorsun, ikisi de ağır, hangisinin doğru olduğunu hâlâ tartmak istiyorsun. Bu kart kararsızlığın kartı değil, kararı acele etmemenin kartı, gözünü kapatıp kalbini dinleme arası.",
+      "love": "Bir ilişkide tarafsız bir bekleyiş var, iki tarafa da adil davranma çabası.",
+      "career": "İki teklif arasında, ya da iki yön arasında dengeli bir bekleme.",
+      "yesNo": "BELKİ, henüz karar olgunlaşmadı"
+    },
+    "reversed": {
+      "general": "Bağlı gözler açılıyor, ama açılınca da kafa karışıklığı bitmiyor. Uzun süredir ertelediğin bir karar artık seninle birlikte yaşıyor, görmemezlikten gelmek imkansız hale geliyor. Tarafsız kalma maskesi düşüyor, içinde aslında bir tarafa eğildiğini biliyorsun.",
+      "love": "Görmezden gelinen bir gerçek artık masada, yüzleşme zamanı.",
+      "career": "Karar veremezken zaman aleyhine dönmüş, ertelemenin maliyeti birikmiş."
+    },
+    "image": "/img/cards/swords-02-two.webp",
+    "thumbnail": "/img/cards/thumbs/swords-02-two.webp"
+  },
+  {
+    "id": "swords-03-three",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Üç Kılıç",
+    "nameEN": "Three of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "kalp acısı",
+      "yas",
+      "dürüst keder",
+      "salıverme"
+    ],
+    "upright": {
+      "general": "Üç kılıç bir kalbin içinden geçmiş, arka planda yağmurlu gri bir gökyüzü. Acıyan yer var, gerçek, inkar edilmeyecek bir acı. Ama kart aynı zamanda şunu söylüyor, ağlamak gerekirse ağla, sonra dur, çünkü yağmur sonsuza kadar yağmıyor.",
+      "love": "Bir kırılma, bir hayal kırıklığı ya da geç kalmış bir veda dürüstçe yaşanıyor.",
+      "career": "Bir hayalin ya da projenin acı veren sonu, ama temizleyici.",
+      "yesNo": "HAYIR, ama acı geçer"
+    },
+    "reversed": {
+      "general": "Yağmur dinmek üzere, kılıçlar yavaşça çıkıyor. Bir yası tutmaya çalışmışsın, biraz daha vakit istiyor ama gidişat iyileşme yönünde. Bazen ters Üç Kılıç henüz iyileşmemişliği gösterir, bazen de geçmişin acısını şu ana taşımayı bırakmayı.",
+      "love": "Bir kırgınlık yumuşuyor, bağışlama ihtimal halinde.",
+      "career": "Bir çöküntüden toparlanma, kabul edilen bir dersin sindirilmesi."
+    },
+    "image": "/img/cards/swords-03-three.webp",
+    "thumbnail": "/img/cards/thumbs/swords-03-three.webp"
+  },
+  {
+    "id": "swords-04-four",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Dört Kılıç",
+    "nameEN": "Four of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "dinlenme",
+      "iyileşme",
+      "geri çekilme",
+      "sessiz toplanış"
+    ],
+    "upright": {
+      "general": "Bir şövalye taş bir lahit üstünde uzanmış, eller dua edercesine kavuşmuş, üç kılıç duvarda asılı, biri yanında. Savaş bitmedi, ama savaşçı ara veriyor. Dört sayısı yapı ve dinlenme, burada zihnin kendine alan açma ihtiyacı.",
+      "love": "İlişkiye kısa bir nefes vermek, mesafeyle birbirini görmek iyi gelecek.",
+      "career": "Bir mola, bir sabbatical, kafanı temizleme dönemi.",
+      "yesNo": "BELKİ, önce dinlen sonra konuş"
+    },
+    "reversed": {
+      "general": "Lahitten kalkma vakti gelmiş, ama beden ve zihin daha hazır değil. Çok uzun süre geri çekilmek de bir kaçıştır, hareketsizlik bir noktadan sonra iyileştirmez, paslandırır. Ya da tam tersi, dinlenmen gerekirken hâlâ koşmaya devam ediyorsun.",
+      "love": "Geri çekildiğin yerden geri dönme zamanı, ya da hâlâ yorgunken zorlama.",
+      "career": "Mola fazla uzadı ya da hiç verilmedi, ikisinin de bedeli var."
+    },
+    "image": "/img/cards/swords-04-four.webp",
+    "thumbnail": "/img/cards/thumbs/swords-04-four.webp"
+  },
+  {
+    "id": "swords-05-five",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Beş Kılıç",
+    "nameEN": "Five of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "pirus zaferi",
+      "çatışma",
+      "ego maliyeti",
+      "kazanmak ya da haklı olmak"
+    ],
+    "upright": {
+      "general": "Bir adam üç kılıcı toplamış, gülümsüyor, arka planda iki kişi mağlup ayrılıyor, gökyüzü dağınık bulutlu. Bir tartışmayı kazandın ama içinde bir tat bırakmadı, ya da kazanmak üzeresin ve bedeli düşünmen gerekiyor. Beş sayısı kararsızlık ve gerilim, burada haklı olmakla bağ kurmak arasında bir seçim duruyor.",
+      "love": "Sözle yaralayan bir tartışma, kazanan da yorgun çıkıyor.",
+      "career": "Rekabette üstte olmak, ama köprüleri yakma riski.",
+      "yesNo": "HAYIR, kazansan da kayıp var"
+    },
+    "reversed": {
+      "general": "Toz duruyor, kılıçlar yavaşça yere bırakılıyor. Bir çatışmadan ders çıkarma anı, ya da uzun süredir taşıdığın küskünlüğü bırakma ihtimali. Bazen ters Beş Kılıç barışma kapısının aralanmasıdır, bazen de hâlâ inat eden bir öfkenin sürdüğünü.",
+      "love": "Bir kırgınlık çözülüyor ya da daha derinleşmeden duruluyor.",
+      "career": "Bir rekabetin ardından gelen sessiz uzlaşma."
+    },
+    "image": "/img/cards/swords-05-five.webp",
+    "thumbnail": "/img/cards/thumbs/swords-05-five.webp"
+  },
+  {
+    "id": "swords-06-six",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Altı Kılıç",
+    "nameEN": "Six of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "geçiş",
+      "uzaklaşma",
+      "sakin sular",
+      "iyileşmeye doğru"
+    ],
+    "upright": {
+      "general": "Sandalda bir kayıkçı, önünde iki yolcu sırtı dönük oturuyor, kılıçlar tekneye saplı, su sağda dalgalı solda durgun. Zor bir dönemden daha sakin sulara geçiyorsun, geride bıraktığın şey hâlâ teknede ama yön değişti. Altı sayısı uyum, hareket küçük ama kararlı.",
+      "love": "Birlikte zor bir dönemi geride bırakma, ya da bir bağdan sessizce ayrılma.",
+      "career": "Bir iş değişikliği, bir taşınma, daha sakin bir ortama geçiş.",
+      "yesNo": "EVET, ama yavaş ve dikkatli"
+    },
+    "reversed": {
+      "general": "Tekne yola çıkmıyor ya da çıkıyor ama geriye dönüp duruyor. Bir geçişe direnç var, eski yer rahat değildi ama tanıdıktı, yenisinin ne olduğunu henüz bilmiyorsun. Bazen ters Altı bir hareketin ertelenmesi, bazen geçmişle bağı tam koparamamış olmak.",
+      "love": "Bir ayrılık ya da değişiklik geciyor, henüz gitmeye gönül razı değil.",
+      "career": "Bir taşınma ya da değişiklik askıda, eskinin çekimi devam ediyor."
+    },
+    "image": "/img/cards/swords-06-six.webp",
+    "thumbnail": "/img/cards/thumbs/swords-06-six.webp"
+  },
+  {
+    "id": "swords-07-seven",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Yedi Kılıç",
+    "nameEN": "Seven of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "strateji",
+      "saklı niyet",
+      "yalnız hareket",
+      "akıllı çekilme"
+    ],
+    "upright": {
+      "general": "Bir figür çadırlardan beş kılıç almış, ikisini geride bırakmış, parmak ucunda uzaklaşıyor, omzunun üstünden gülümsüyor. Bir konuda kendi başına strateji kuruyorsun, herkese söylemeden hareket ediyorsun. Bu her zaman aldatma değildir, bazen de kendin için en doğru yolu sessizce seçmektir.",
+      "love": "Söylenmemiş bir şey var, ya senin tarafında ya karşı tarafta, dürüstlüğü tartmak gerekiyor.",
+      "career": "Bağımsız hareket etme, kartları tek tek açma stratejisi.",
+      "yesNo": "BELKİ, niyetini netleştir"
+    },
+    "reversed": {
+      "general": "Saklanan şey ortaya çıkıyor, ya da senin sakladığın şeyi sen ortaya koymaya karar veriyorsun. Bazen ters Yedi yakalanma, bazen ise itiraf etme cesareti. Hile ya artık taşınamayacak kadar ağır, ya da maskenin düşmesinin zamanı gelmiş.",
+      "love": "Saklanan bir şey su yüzüne çıkıyor, gerçek konuşulmak istiyor.",
+      "career": "Bir gizli planın ortaya çıkması ya da senin oyunu açmaya karar vermen."
+    },
+    "image": "/img/cards/swords-07-seven.webp",
+    "thumbnail": "/img/cards/thumbs/swords-07-seven.webp"
+  },
+  {
+    "id": "swords-08-eight",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Sekiz Kılıç",
+    "nameEN": "Eight of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "kendi kendine kısıtlama",
+      "zihinsel hapis",
+      "çıkış var",
+      "algı tuzağı"
+    ],
+    "upright": {
+      "general": "Gözleri ve bedeni bağlı bir figür, etrafında sekiz kılıç parmaklık gibi dikilmiş, ama ayağı serbest, arkasındaki yol açık. Kendini sıkıştırılmış hissediyorsun, oysa parmaklıkları çoğunlukla zihin kuruyor. Kart der ki, gözündeki bağ çözülürse arkanı dönüp bir adım atabilirsin, kılıçlar seni gerçekte tutmuyor.",
+      "love": "Bir ilişkide kendini çaresiz hissediyorsun, ama seçenek olmadığı yanılsama olabilir.",
+      "career": "Bir işte sıkışmışlık duygusu, çıkış kapısı düşündüğünden yakın.",
+      "yesNo": "HAYIR, ama gerçekten kapalı değil"
+    },
+    "reversed": {
+      "general": "Bağ çözülüyor, gözler açılıyor, ilk adım atılıyor. Uzun süredir kendini içine soktuğun bir hikayeden çıkıyorsun, ya da hâlâ içerdesin ama artık parmaklıkların kendi yapımın olduğunu görüyorsun. Bu kart ters geldiğinde özgürleşmenin başlangıcıdır.",
+      "love": "Kısıtlanmış hissettiğin bir bağdan çıkış belirginleşiyor.",
+      "career": "Sıkıştığını sandığın yerden bir kapı açılıyor."
+    },
+    "image": "/img/cards/swords-08-eight.webp",
+    "thumbnail": "/img/cards/thumbs/swords-08-eight.webp"
+  },
+  {
+    "id": "swords-09-nine",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Dokuz Kılıç",
+    "nameEN": "Nine of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "uykusuzluk",
+      "kaygı",
+      "gece düşünceleri",
+      "abartılmış korku"
+    ],
+    "upright": {
+      "general": "Bir figür yatağında oturmuş, yüzü ellerinin arasında, üstündeki duvarda dokuz kılıç asılı, yorganda burç ve gül desenleri. Gece düşüncelerinin kartı bu, sabaha kadar dönüp duran zihin, en korkunç senaryoları kuran içsel ses. Önemli olan, kılıçların duvarda asılı olduğunu fark etmek, sana saplanmış değil, tepende dönüyor sadece.",
+      "love": "Bir endişe gece büyüyor, gündüzün ışığında çoğu zaman küçülecek.",
+      "career": "İşte yapamama, yetememe korkusu zihni yiyor, gerçeklik testi gerekiyor.",
+      "yesNo": "HAYIR, ama korku abartılı"
+    },
+    "reversed": {
+      "general": "Sabah yaklaşıyor, kabus yavaşça çekiliyor. Bir kaygı dönemi sona ermek üzere ya da tam zirvesinde, ikisi de mümkün. Ters Dokuz Kılıç bazen yardım istemeyi öğrenmektir, bazen de uyku kalitesini geri kazanmaya başlamak.",
+      "love": "Geceleri büyüyen bir endişe gündüze taşınıp konuşulabiliyor.",
+      "career": "Tükenmişlikten çıkış belirginleşiyor, yardım istemek seçenek olarak masada."
+    },
+    "image": "/img/cards/swords-09-nine.webp",
+    "thumbnail": "/img/cards/thumbs/swords-09-nine.webp"
+  },
+  {
+    "id": "swords-10-ten",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "On Kılıç",
+    "nameEN": "Ten of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "bitiş",
+      "dip",
+      "yeni günün eşiği",
+      "abartılmış teslim"
+    ],
+    "upright": {
+      "general": "Bir figür yüzükoyun yatıyor, sırtında on kılıç, ama ufukta gün ağarıyor, gökyüzü altın renginde. En kötüsü olmuş, daha kötüsü yok, bu bir bitiş kartı ama bitişin getirdiği bir hafiflik var. On sayısı döngü kapanması, kılıçların düştüğü gün yeni günün ilk gününe denk geliyor.",
+      "love": "Bir ilişkinin gerçekten kapandığı an, daha fazla geri dönüş yok.",
+      "career": "Bir projenin ya da pozisyonun bitmesi, ama yeni sayfa görünür durumda.",
+      "yesNo": "HAYIR, ama bitiş yeni başlangıcı doğuruyor"
+    },
+    "reversed": {
+      "general": "Bitiş tam olmamış ya da bitişe direnç var. Bazen ters On Kılıç dipten yukarıya çıkışın başlangıcıdır, bazen de düşmeyi henüz kabullenmemiş bir inatçılık. Aşırı dramatize ettiğin bir konu olabilir, gerçeklik daha hafif.",
+      "love": "Bir kapanışa direniliyor ya da yas dönemi sonuna geliyor.",
+      "career": "Bir kayıptan toparlanma, sandığından daha hızlı."
+    },
+    "image": "/img/cards/swords-10-ten.webp",
+    "thumbnail": "/img/cards/thumbs/swords-10-ten.webp"
+  },
+  {
+    "id": "swords-11-page",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Kılıç Uşağı",
+    "nameEN": "Page of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "meraklı zihin",
+      "tetikte",
+      "öğrenme isteği",
+      "haber"
+    ],
+    "upright": {
+      "general": "Bir genç tepenin üstünde durmuş, kılıcı havada, rüzgar saçında, gözü uzakta bir noktada. Yeni bir bilgi, yeni bir merak, yeni bir araştırma alanı çağırıyor. Genç enerji, hızla öğrenen, soru soran, biraz haşin ama heyecanlı bir zihnin kartı.",
+      "love": "Heyecanlı bir tanışma, ama henüz olgunlaşmamış, çok soru çok mesaj.",
+      "career": "Yeni bir konuyu öğrenmeye başlama, eğitim, bir haberin gelişi.",
+      "yesNo": "BELKİ, ama uyanık ol"
+    },
+    "reversed": {
+      "general": "Merak dedikoduya dönüşüyor ya da bilgi yarım yamalak kullanılıyor. Bazen ters Kılıç Uşağı acele konuşmuş bir genç enerji, bazen ise söylenti, çarpıtılmış haber. Söylediğini iki defa düşünmenin günü.",
+      "love": "Mesajların yanlış anlaşıldığı, kelimelerin yaraladığı bir dönem.",
+      "career": "Yarım bilgiyle hareket etme riski, doğrulanmamış haber."
+    },
+    "image": "/img/cards/swords-11-page.webp",
+    "thumbnail": "/img/cards/thumbs/swords-11-page.webp"
+  },
+  {
+    "id": "swords-12-knight",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Kılıç Şövalyesi",
+    "nameEN": "Knight of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "hız",
+      "kararlı atılım",
+      "düşünmeden ileri",
+      "fikir savunucusu"
+    ],
+    "upright": {
+      "general": "Şövalye atı dörtnala koşturuyor, kılıç havada, miğferinin tüyü rüzgarda yatay, gökyüzü fırtınalı. Bir fikir, bir karar, bir hedef seni hızla ileri itiyor, durmak istemiyorsun. Bu kart cesarettir, ama aynı zamanda fazla acele etme uyarısıdır.",
+      "love": "Hızla başlayan bir aşk, ya da hızla sonlandırılan bir tartışma.",
+      "career": "Hızlı bir hamle, agresif bir savunma, kararlı bir atak.",
+      "yesNo": "EVET, ama hızlı"
+    },
+    "reversed": {
+      "general": "At durmuş, şövalye yere düşmüş ya da hâlâ koşuyor ama yönü kaybetmiş. Acele edip atılan bir adımın bedelini ödüyorsun ya da tam tersi, hareket etmesi gereken yerde duruyorsun. Ters Kılıç Şövalyesi bazen agresyon, bazen tükenmiş hız.",
+      "love": "Aceleyle söylenen bir söz ya da aniden çekilen bir adım.",
+      "career": "Plansız bir hamlenin geri tepmesi, ya da fazla hız sonrası tükenme."
+    },
+    "image": "/img/cards/swords-12-knight.webp",
+    "thumbnail": "/img/cards/thumbs/swords-12-knight.webp"
+  },
+  {
+    "id": "swords-13-queen",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Kılıç Kraliçesi",
+    "nameEN": "Queen of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "berrak akıl",
+      "doğrudan konuşma",
+      "deneyimli zarafet",
+      "sınır koyma"
+    ],
+    "upright": {
+      "general": "Kraliçe taht üstünde dimdik oturuyor, sağ eli kılıcı yukarı tutuyor, sol eli açık, yüzü profilde net ve sakin. Acılardan geçmiş, yas tutmuş, ama dingelenmiş bir kadının zekası bu, sözü hem keskin hem adil. İçindeki Kılıç Kraliçesi sınır çizmeyi öğrenmiş, kimsenin sözüne kırılmıyor, kimseye boş söz vermiyor.",
+      "love": "Dürüst, mesafeli, ama derin bir ilişki, oyun yok, sınır net.",
+      "career": "Lider, danışman, hakem rolü, hak hukuk konularında berrak.",
+      "yesNo": "EVET, ama soğukkanlı kalmak şartıyla"
+    },
+    "reversed": {
+      "general": "Berrak akıl sertliğe dönüşmüş ya da geçmişin acıları sözü zehirlemiş. Bazen ters Kılıç Kraliçesi savunmacı bir kadın, kimseyi içeri almıyor, bazen acı çekmiş ve bunun keskinliğiyle çevresini yaralayan biri. Yumuşamak da gerek, ama önce o sertliğin nereden geldiğini görmek.",
+      "love": "Geçmişin yarası bugünü soğutuyor, savunma çok yüksek.",
+      "career": "Aşırı eleştirel bir ses, takım dinamiğini sıkıştırıyor."
+    },
+    "image": "/img/cards/swords-13-queen.webp",
+    "thumbnail": "/img/cards/thumbs/swords-13-queen.webp"
+  },
+  {
+    "id": "swords-14-king",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "swords",
+    "nameTR": "Kılıç Kralı",
+    "nameEN": "King of Swords",
+    "element": "Hava",
+    "planet": null,
+    "keywords": [
+      "entelektüel otorite",
+      "adil hüküm",
+      "stratejik akıl",
+      "ilkesel duruş"
+    ],
+    "upright": {
+      "general": "Kral taht üstünde, kılıcı dik tutuyor, gökyüzünde tek bir bulut, gözleri ileride ve sakin. Hüküm verme yetkisi olan bir akıl, ama duygusuz değil, ilkeli. İçindeki Kılıç Kralı uzun yıllarda biriktirilmiş zekayı kullanma, kararı duygu fırtınasıyla değil, soğuk ve adil bir terazi ile verme kapasitesidir.",
+      "love": "Olgun, ilkeli, mesafesini koruyan ama sözünün arkasında duran biri.",
+      "career": "Üst yönetim, hukuk, danışmanlık, stratejik karar zamanı.",
+      "yesNo": "EVET, ilkeli ve adil"
+    },
+    "reversed": {
+      "general": "İlkeli akıl katı yargıçlığa dönüşmüş ya da yetkiyi adil kullanmıyor. Ters Kılıç Kralı bazen manipülatif zeka, bazen gücünü kötüye kullanan bir otorite figürü, bazen de senin içinde her şeyi mantıkla bastıran sert bir sesin abartılmış hali. Empati eksikliği uyarısı.",
+      "love": "Soğuk, mesafeli, hep haklı çıkmaya çalışan bir dinamik.",
+      "career": "Otoritenin kötü kullanımı, adaletsiz karar, manipülatif yönetim."
+    },
+    "image": "/img/cards/swords-14-king.webp",
+    "thumbnail": "/img/cards/thumbs/swords-14-king.webp"
+  },
+  {
+    "id": "wands-01-ace",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Asa Ası",
+    "nameEN": "Ace of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "kıvılcım",
+      "ilham",
+      "başlangıç",
+      "yaratıcı dürtü"
+    ],
+    "upright": {
+      "general": "Buluttan uzanan bir el filizlenmiş bir asa tutar, yaprakları henüz yeşil, içinde bir hareket vardır. Asa Ası saf bir kıvılcımın kartıdır, henüz bir şeye dönüşmemiş ama dönüşmek isteyen bir enerjinin elinizdeki haline işaret eder. Bir fikir, bir tutku, bir cesaret kabarması var, kabul ederseniz büyür.",
+      "love": "İçinde tutuşan yeni bir ilgi ya da uzun zamandır soğumuş bir bağda yeniden yanan bir kıvılcım var.",
+      "career": "Yeni bir proje ya da girişim için ham enerji elinizde, başlatmak için bekleyen bir ateş.",
+      "yesNo": "EVET, başlangıç enerjisi açık."
+    },
+    "reversed": {
+      "general": "Asa Ası ters geldiğinde kıvılcım vardır ama tutuşmaya direnir. Niyet doğmuştur, ama erteleme, kararsızlık ya da yanlış zamanlama ateşi söndürmektedir. Bu kart geri çekilmeyi değil, hangi kıvılcımın gerçek olduğunu ayırt etmeyi söyler.",
+      "love": "Bir başlangıç havası var ama hâlâ zihinde, bedene henüz inmemiş.",
+      "career": "Heves geldi geçti, projeyi sürdürmek için temel zemin eksik."
+    },
+    "image": "/img/cards/wands-01-ace.webp",
+    "thumbnail": "/img/cards/thumbs/wands-01-ace.webp"
+  },
+  {
+    "id": "wands-02-two",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "İki Asa",
+    "nameEN": "Two of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "plan",
+      "ufuk",
+      "vizyon",
+      "tercih"
+    ],
+    "upright": {
+      "general": "Elinde bir küre tutan figür sur burcundan ufka bakar, bir asa duvara sabitlenmiş, diğeri elindedir. İki Asa, kıvılcımın artık yön aramaya başladığı andır, başlangıçtan sonraki ilk gerçek tercihtir. Konfor ile genişleme arasında durmak, kalmak ile yola çıkmak arasında karar vermek bu kartın özüdür.",
+      "love": "Bir bağı derinleştirmek mi yoksa yeni bir ufuk açmak mı sorusu masada.",
+      "career": "Plan kurmanın, ortaklık ya da yön seçmenin zamanı, henüz hareket değil ama hazırlık.",
+      "yesNo": "BELKİ, önce yön netleşmeli."
+    },
+    "reversed": {
+      "general": "İki Asa ters çıktığında ufka bakmak yerine sura yapışma eğilimi vardır. Bilinen güvenli görünür, bilinmeyen korkutur, oysa kalmak da bir tür kayıptır. Karar ertelemenin maliyeti yavaş yavaş hissedilir.",
+      "love": "Konfor alanına çekilme, ilişkiyi büyütmek yerine sabitleme isteği.",
+      "career": "Vizyon dağılmış, küçük detaylar büyük resmi kapatmış."
+    },
+    "image": "/img/cards/wands-02-two.webp",
+    "thumbnail": "/img/cards/thumbs/wands-02-two.webp"
+  },
+  {
+    "id": "wands-03-three",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Üç Asa",
+    "nameEN": "Three of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "genişleme",
+      "bekleyiş",
+      "ufuk",
+      "ileri görüş"
+    ],
+    "upright": {
+      "general": "Bir tepede duran figür denize bakar, gemiler ufukta ilerler, üç asa sağlam dikilidir. Üç Asa, ekilen tohumun artık dışarıda iş gördüğü, sonucun yolda olduğu o sabırlı bekleyişin kartıdır. Hareket başlamıştır, geri dönmek artık seçenek değildir, kalan tek iş geniş bakmaktır.",
+      "love": "İlişkide ufuk genişliyor, uzaktan gelen ya da uzağa açılan bir bağ söz konusu.",
+      "career": "Atılan adımlar meyve vermek üzere, sabırla genişlemenin sırası.",
+      "yesNo": "EVET, hareket çoktan başladı."
+    },
+    "reversed": {
+      "general": "Üç Asa ters geldiğinde beklenen gemiler gecikir ya da sandığın limana yanaşmaz. Plan iyi kurulmuştur ama dış faktörler işin temposunu değiştirmiştir. Burada panik yerine yeniden ölçü almak gerekir.",
+      "love": "Uzak duran ya da geri dönmeyen bir bağ, beklemenin uzaması.",
+      "career": "Genişleme ertelenmiş, ufuk daralmış gibi hissediliyor."
+    },
+    "image": "/img/cards/wands-03-three.webp",
+    "thumbnail": "/img/cards/thumbs/wands-03-three.webp"
+  },
+  {
+    "id": "wands-04-four",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Dört Asa",
+    "nameEN": "Four of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "kutlama",
+      "eşik",
+      "yuva",
+      "topluluk"
+    ],
+    "upright": {
+      "general": "Dört asa çiçek ve meyve çelenkleriyle bağlanmış, arkada kale, önde sevinçle çelenk kaldıran iki figür vardır. Dört Asa, kurulan yapının ilk meyvesini paylaşma anının kartıdır, ne sonun kapanışı ne yeni başlangıç, ortadaki o sıcak eşiktir. Bu kart bir yuva, bir aile, bir topluluk hissini hatırlatır.",
+      "love": "Bağda istikrar, beraber kurulan bir alanın kutlanması, nişan ya da taşınma.",
+      "career": "Ekibin ya da projenin bir kilometre taşına ulaştığı, paylaşılması gereken bir an.",
+      "yesNo": "EVET, temel sağlam ve görünür."
+    },
+    "reversed": {
+      "general": "Dört Asa ters çıktığında kutlama yapılmak istenir ama zemin tam tutmamıştır. Görünüşte uyum vardır, içeride dağınık parçalar kalmıştır, ev kurulmuş ama henüz yerleşilmemiştir. Acele etmemek, eşikte biraz daha durmak iyi gelir.",
+      "love": "İlişkide gösterilen uyum içeride hissedilmiyor, biçim var öz yarıda.",
+      "career": "Erken kutlama, henüz tamamlanmamış işin başında alkış."
+    },
+    "image": "/img/cards/wands-04-four.webp",
+    "thumbnail": "/img/cards/thumbs/wands-04-four.webp"
+  },
+  {
+    "id": "wands-05-five",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Beş Asa",
+    "nameEN": "Five of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "çatışma",
+      "rekabet",
+      "deneme",
+      "ses kalabalığı"
+    ],
+    "upright": {
+      "general": "Beş genç figür asalarını havaya kaldırmış, sanki dövüşür gibi ama ritimleri uyumsuzdur, gerçek bir kavgadan çok bir prova gibidir. Beş Asa, fikirlerin, egoların, küçük rekabetlerin birbirine değdiği o gürültülü ama çoğu zaman verimli kaosun kartıdır. Burada asıl mesele kazanmak değil, kendi sesini kalabalıkta duyabilmektir.",
+      "love": "Küçük anlaşmazlıklar, ego sürtüşmeleri, gerçek çatışmadan çok yıpratıcı tartışma.",
+      "career": "Rekabetli bir alan, herkes konuşur kimse dinlemez, ses bulmak gerekir.",
+      "yesNo": "BELKİ, önce kalabalık dağılmalı."
+    },
+    "reversed": {
+      "general": "Beş Asa ters geldiğinde dışarı taşan kavga içeri çekilmiştir. Kişi artık kimseye değil kendine vurur, içsel çekişme dışsal sürtüşmeden daha çok yorar. Ya da tersine, gerilimi söndürüp barışa giden bir uzlaşma anıdır.",
+      "love": "Birikmiş gerilim ya yatışıyor ya iç sese dönmüş, bastırılmış.",
+      "career": "Takım içi sürtüşme uzun sürdü, motivasyon erimiş."
+    },
+    "image": "/img/cards/wands-05-five.webp",
+    "thumbnail": "/img/cards/thumbs/wands-05-five.webp"
+  },
+  {
+    "id": "wands-06-six",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Altı Asa",
+    "nameEN": "Six of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "zafer",
+      "tanınma",
+      "gurur",
+      "alkış"
+    ],
+    "upright": {
+      "general": "At üstünde defne tacıyla ilerleyen bir figür, etrafında onu selamlayan kalabalık, asalar dik tutulur. Altı Asa, çabanın görüldüğü, emeğin karşılığını aldığı, alkışın hak edilmiş olarak geldiği andır. Bu kart başarıyı kibirden ayırır, sırrı tacın değil duruşun olgunluğundadır.",
+      "love": "Bağda gurur veren bir an, başkalarınca da görülen bir uyum.",
+      "career": "Tanınma, terfi, projenin meyvesini topluluk önünde alma.",
+      "yesNo": "EVET, başarı görünür."
+    },
+    "reversed": {
+      "general": "Altı Asa ters çıktığında ya alkış henüz gelmemiştir ya da gelen alkış içeride yankı bulmamıştır. Başarı dışarıdan onaylansa da kişi kendi kendine yetersiz hissedebilir, ya da emek görülmemiş olabilir. Burada onayı dışarıdan içeriye çekmek gerekir.",
+      "love": "Görülmediğin hissi, takdir edilmemiş çaba.",
+      "career": "Hak edilen tanınma gecikmiş ya da başkasına gitmiş."
+    },
+    "image": "/img/cards/wands-06-six.webp",
+    "thumbnail": "/img/cards/thumbs/wands-06-six.webp"
+  },
+  {
+    "id": "wands-07-seven",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Yedi Asa",
+    "nameEN": "Seven of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "savunma",
+      "duruş",
+      "sebat",
+      "zemin"
+    ],
+    "upright": {
+      "general": "Yüksek bir kayanın üstünde duran figür, aşağıdan uzanan altı asaya karşı kendi asasını savunma pozisyonunda tutar. Yedi Asa, kazanılmış bir alanı koruma, edinilmiş bir duruşu sürdürme kartıdır, saldırı değil sebattır. Yorgun olabilirsin ama yüksektesin, yer vermemen gereken nokta tam burası.",
+      "love": "İlişkide ya da kendi sınırında dik durma, dışarıdan gelen baskıya teslim olmama.",
+      "career": "Pozisyonunu koruma, eleştiriye sağlam zeminden cevap verme.",
+      "yesNo": "EVET, ama mücadele gerektirir."
+    },
+    "reversed": {
+      "general": "Yedi Asa ters geldiğinde duruş yorulmuştur, savunulan alanın hâlâ savunmaya değer olup olmadığı sorusu ortaya çıkar. Bazen kişi kendine ait olmayan bir mevziyi savunarak harcanmış hisseder. Bu kart bırakmak ile tutmak arasındaki ayarı yeniden kurmayı söyler.",
+      "love": "Sürekli kendini savunma yorgunluğu, kapanma eğilimi.",
+      "career": "Defansif kalmaktan inisiyatif kaybı, savunulan şeyin değeri sorgulanmalı."
+    },
+    "image": "/img/cards/wands-07-seven.webp",
+    "thumbnail": "/img/cards/thumbs/wands-07-seven.webp"
+  },
+  {
+    "id": "wands-08-eight",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Sekiz Asa",
+    "nameEN": "Eight of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "hız",
+      "haber",
+      "akış",
+      "ivme"
+    ],
+    "upright": {
+      "general": "Açık bir gökyüzünde sekiz asa hizalı şekilde uçar, hedefe yaklaşmaktadır, yer aşağıda yumuşak ve yeşildir. Sekiz Asa, bekleyişin bittiği, mesajın yolda olduğu, olayların hızlandığı andır. Burada engel kalmamış, yön belirlenmiş, geri kalan tek iş akışa ayak uydurmaktır.",
+      "love": "Hızla gelişen bir yakınlaşma, beklenen bir mesaj, açılan bir kanal.",
+      "career": "İşlerin ivme kazandığı, gecikmiş kararların çözüldüğü dönem.",
+      "yesNo": "EVET, hızla."
+    },
+    "reversed": {
+      "general": "Sekiz Asa ters çıktığında akış kesintiye uğramıştır, ya gecikme vardır ya yanlış yöne ivme. Mesajlar yanlış anlaşılır, hız yorulmaya dönüşür, koordinasyon dağılır. Yavaşlamak burada bir kayıp değil, doğru hizayı yeniden bulmaktır.",
+      "love": "Yanlış zamanlama, gelen mesajın yarım anlaşılması.",
+      "career": "Gecikmeler, savrulmuş öncelikler, ritim bozuk."
+    },
+    "image": "/img/cards/wands-08-eight.webp",
+    "thumbnail": "/img/cards/thumbs/wands-08-eight.webp"
+  },
+  {
+    "id": "wands-09-nine",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Dokuz Asa",
+    "nameEN": "Nine of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "dayanıklılık",
+      "tetikte olma",
+      "yorgun cesaret",
+      "son viraj"
+    ],
+    "upright": {
+      "general": "Başı sargılı, elinde tek asa, arkasında dizili sekiz asa duran figür tetikte bekler, yorgundur ama vazgeçmemiştir. Dokuz Asa, çok sürmüş bir mücadelenin son virajını anlatır, bedeni yormuş ama ruhu bilemiştir. Bu kart sana son bir kez ayağa kalkmayı, çünkü tam vazgeçme noktasında zaferin başladığını söyler.",
+      "love": "Yıpranmış ama hâlâ inanılan bağ, kendini koruyarak yaklaşma.",
+      "career": "Uzun süredir taşınan iş yükünün son etabı, dayanmak.",
+      "yesNo": "EVET, ama dayanıklılık gerektirir."
+    },
+    "reversed": {
+      "general": "Dokuz Asa ters geldiğinde tetikte olma hali paranoyaya dönüşmüştür. Tehdit kalmadığı halde savunma sürer, eski yaralar bugünün figürlerine giydirilir. Burada savaşı bırakmak yenilgi değil, iyileşmenin başlangıcıdır.",
+      "love": "Eski kırılmaların bugünkü bağa yansıması, savunmanın gereksiz uzaması.",
+      "career": "Tükenmişlik, küçük her olayı tehdit gibi okuma."
+    },
+    "image": "/img/cards/wands-09-nine.webp",
+    "thumbnail": "/img/cards/thumbs/wands-09-nine.webp"
+  },
+  {
+    "id": "wands-10-ten",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "On Asa",
+    "nameEN": "Ten of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "yük",
+      "sorumluluk",
+      "tükeniş",
+      "varış"
+    ],
+    "upright": {
+      "general": "On asayı kollarına yığmış bir figür, eve doğru ağır adımlarla ilerler, ufuk yakındır ama yük gözünü kapatmıştır. On Asa, başarının ardından gelen yorgunluğun, taşınmaması gereken yüklerin hâlâ taşındığı anın kartıdır. Burada sorulması gereken şey, bu yükün ne kadarının gerçekten sana ait olduğudur.",
+      "love": "İlişkide tek başına taşıyor hissi, dengelenmemiş emek.",
+      "career": "Aşırı yük, sınır koymadan üstlenilen sorumluluklar.",
+      "yesNo": "BELKİ, ama bedeli yorgunluk."
+    },
+    "reversed": {
+      "general": "On Asa ters çıktığında yük bırakılmaya başlamıştır ya da bırakılması gerektiği görülmüştür. Bu rahatlama anıdır, ama aynı zamanda hangi sorumluluğun zaten başkasına ait olduğunu fark etme eşiğidir. Sırtı boşaltmak başarıyı küçültmez, asıl başarıyı görünür kılar.",
+      "love": "Tek taraflı taşımanın bittiği ya da bağın yorgun düştüğü an.",
+      "career": "Devredilmesi gereken işlerin nihayet başkasına geçmesi."
+    },
+    "image": "/img/cards/wands-10-ten.webp",
+    "thumbnail": "/img/cards/thumbs/wands-10-ten.webp"
+  },
+  {
+    "id": "wands-11-page",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Asa Uşağı",
+    "nameEN": "Page of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "heves",
+      "keşif",
+      "yeni haber",
+      "çocuksu cesaret"
+    ],
+    "upright": {
+      "general": "Genç bir figür elinde filizlenmiş asayı meraklı gözlerle inceler, çölde durur ama gözleri çiçek görmüş gibidir. Asa Uşağı, içindeki çocuğun hâlâ büyük rüyalar kurabildiğinin kartıdır, henüz tecrübeli değil ama tecrübeden korkmayan bir ateş taşır. Yeni bir öğrenme, yeni bir tutkulu adım, ya da bir hevesin haberi gelmek üzeredir.",
+      "love": "Taze bir ilgi, oyuncu bir flört, henüz büyümemiş ama vaatkar bir kıvılcım.",
+      "career": "Yeni bir alana hevesli giriş, öğrenmeye açık başlangıç.",
+      "yesNo": "EVET, hevesle."
+    },
+    "reversed": {
+      "general": "Asa Uşağı ters geldiğinde heves çabuk söner, başlanan bitmez, dağılma vardır. Ya da içerideki çocuk dış sebeplerle susturulmuştur, hevesin kendisini suçlu hissetme dönemidir. Burada hevesi bastırmak değil yönlendirmek gerekir.",
+      "love": "Olgunlaşmamış bir yaklaşım, oyalayan ama derinleşmeyen ilgi.",
+      "career": "Başlanmış ama bitirilmemiş işler, dikkat dağılması."
+    },
+    "image": "/img/cards/wands-11-page.webp",
+    "thumbnail": "/img/cards/thumbs/wands-11-page.webp"
+  },
+  {
+    "id": "wands-12-knight",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Asa Şövalyesi",
+    "nameEN": "Knight of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "atılım",
+      "tutku",
+      "hız",
+      "cesur hareket"
+    ],
+    "upright": {
+      "general": "Atı şahlanmış, zırhında alev figürleri olan bir şövalye asasını yukarı kaldırmış ileri atılmaktadır. Asa Şövalyesi, içindeki ateşin artık binmek için bir at bulduğu, hareketin coşkulu ama biraz savruk olduğu andır. Burada cesaret esastır, ama hız doğru yönü garantilemez, niyet net olmalıdır.",
+      "love": "Tutkulu, yakıcı, hızlı gelişen ama istikrar testi gerektiren bir bağ.",
+      "career": "Cesur bir hamle, ani bir atılım, ama plan ile dengelenmesi gereken hız.",
+      "yesNo": "EVET, ama hızlı ve risk dolu."
+    },
+    "reversed": {
+      "general": "Asa Şövalyesi ters çıktığında at şahlanır ama yön kaybolmuştur. Aceleci kararlar, sabırsızlık, sözünde durmama eğilimi öne çıkar. Burada ateşi söndürmek değil, gemini eline almak gerekir.",
+      "love": "Geliyorum diyen ama gelmeyen, parlayan ama kalmayan ilgi.",
+      "career": "Hızla başlanıp yarım bırakılmış projeler, savruk enerji."
+    },
+    "image": "/img/cards/wands-12-knight.webp",
+    "thumbnail": "/img/cards/thumbs/wands-12-knight.webp"
+  },
+  {
+    "id": "wands-13-queen",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Asa Kraliçesi",
+    "nameEN": "Queen of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "karizma",
+      "öz güven",
+      "sıcaklık",
+      "magnetizma"
+    ],
+    "upright": {
+      "general": "Tahtında dimdik oturan kraliçe bir elinde asa, diğer elinde ayçiçeği tutar, ayağının dibinde siyah bir kedi vardır. Asa Kraliçesi, içindeki ateşi hem ısıtmak hem aydınlatmak için kullanmayı öğrenmiş kadındır, ne kendini saklar ne kimseyi yakar. Bu kart kendi alanına hakim olmanın, sıcak ama net duruşun temsilidir.",
+      "love": "Kendine güveni içinden gelen, çekim alanı geniş, sahici bir varlık.",
+      "career": "Liderliği doğal, ekibini ısıtarak yöneten, vizyonunu net taşıyan duruş.",
+      "yesNo": "EVET, kendi gücünle."
+    },
+    "reversed": {
+      "general": "Asa Kraliçesi ters geldiğinde içerideki ateş ya bastırılmıştır ya da kıskançlık ve kontrol arayışına dönüşmüştür. Öz güven yerine güvensizlik, sıcaklık yerine alazlanma vardır. Burada yapılacak iş tahta yeniden yerleşmek, kıyaslamadan kendi merkezine dönmektir.",
+      "love": "Kıskançlık, öz değer kaybı, kendinden alınmış güç.",
+      "career": "Karizma yerine baskı, ilham yerine kontrol arayışı."
+    },
+    "image": "/img/cards/wands-13-queen.webp",
+    "thumbnail": "/img/cards/thumbs/wands-13-queen.webp"
+  },
+  {
+    "id": "wands-14-king",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "wands",
+    "nameTR": "Asa Kralı",
+    "nameEN": "King of Wands",
+    "element": "Ateş",
+    "planet": null,
+    "keywords": [
+      "vizyon",
+      "liderlik",
+      "ustalık",
+      "olgun ateş"
+    ],
+    "upright": {
+      "general": "Tahtında oturan kral elindeki asaya yaslanır, cübbesinde aslanlar ve semenderler vardır, bakışı uzaktadır. Asa Kralı, ateşi yıllar içinde terbiye etmiş, vizyonunu çevresine taşıyabilen olgun liderin kartıdır. Burada ne çocuksu heves ne savruk hız vardır, ne yapacağını bilen ve istediğinde durmayı da bilen bir ustalık konuşur.",
+      "love": "Sözü tutan, hayatına dahil ettiğini büyüten, sıcak ama dağılmayan bir varlık.",
+      "career": "Stratejik vizyon, başkalarını harekete geçiren liderlik, uzun vadeli yapı kurma.",
+      "yesNo": "EVET, vizyon ve ustalıkla."
+    },
+    "reversed": {
+      "general": "Asa Kralı ters çıktığında otorite katılaşmıştır, vizyon dayatmaya, ilham emre dönmüştür. Ya da tersine, içerideki kral henüz tahtına oturamamış, gücünü kendine bile söyleyememiştir. Burada gerek liderlik gerek tabiyet değil, kendi ateşini olgun biçimde sahiplenme çağrısı vardır.",
+      "love": "Baskın ya da soğuk tutum, vizyon paylaşılmamış kararların yarattığı mesafe.",
+      "career": "Ego liderliği, esneklik kaybı, ekibi dinlemeyen otorite."
+    },
+    "image": "/img/cards/wands-14-king.webp",
+    "thumbnail": "/img/cards/thumbs/wands-14-king.webp"
+  }
+]

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1288,["/ozge-astro/_next/static/chunks/0_.~yr17-xc3r.js","/ozge-astro/_next/static/chunks/0pav4g~ezy29u.js","/ozge-astro/_next/static/chunks/0-ogtjjoynnxr.js"],"default"]
+3:I[97367,["/ozge-astro/_next/static/chunks/0_.~yr17-xc3r.js","/ozge-astro/_next/static/chunks/0pav4g~ezy29u.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"cicek"}],[["$","script","script-0",{"src":"/ozge-astro/_next/static/chunks/0-ogtjjoynnxr.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ajR66Ai2r3z2Rku3caQda"}
+5:null

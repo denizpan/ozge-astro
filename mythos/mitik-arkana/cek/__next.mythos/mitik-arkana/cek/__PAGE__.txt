@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+3:I[22016,["/ozge-astro/_next/static/chunks/0_.~yr17-xc3r.js","/ozge-astro/_next/static/chunks/0pav4g~ezy29u.js"],""]
+4:I[97367,["/ozge-astro/_next/static/chunks/0_.~yr17-xc3r.js","/ozge-astro/_next/static/chunks/0pav4g~ezy29u.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:["$","p",null,{"children":["Bu sayfa ",["$","$L3",null,{"href":"/mythos/mitik-arkana/yayilimlar/tek-kart/","children":"Tek Kart yayılımına"}]," taşındı. Otomatik yönlendirme için JavaScript açık değilse linke tıkla."]}]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"clamp(140px, 20vh, 220px) var(--side) 60px","textAlign":"center"},"children":[["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"if (typeof window !== 'undefined') { window.location.replace(\"/mythos/mitik-arkana/yayilimlar/tek-kart/\"); }"}}],["$","p",null,{"style":{"color":"rgba(242, 232, 208, 0.7)","fontStyle":"italic"},"children":"Yönlendiriliyor..."}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ajR66Ai2r3z2Rku3caQda"}
+6:null

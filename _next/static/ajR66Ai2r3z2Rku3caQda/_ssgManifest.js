@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fastroloji\u002Fburclar\u002F[slug]","\u002Fblog\u002F[slug]","\u002Fkahve-fali\u002Fsembol-kutuphanesi\u002F[slug]","\u002Fmythos\u002Fhikayeler\u002F[slug]","\u002Ftarot\u002Fbilgi-kutuphanesi\u002F[slug]","\u002Ftarot\u002Fmajor-arkana\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

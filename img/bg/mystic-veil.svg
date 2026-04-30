@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720">
+  <!-- Mystic veil: scattered astrological sigils and zodiac glyphs at large scale,
+       in champagne gold at very low opacity. Tiles seamlessly. Acts as a subtle
+       "mystical whisper" layer beneath content. -->
+  <defs>
+    <pattern id="sigils" x="0" y="0" width="720" height="720" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#D4A96A" stroke-width="0.8" opacity="0.55">
+        <!-- Large circle with inscribed triangle, classic esoteric motif -->
+        <circle cx="140" cy="160" r="55"/>
+        <polygon points="140,115 182,180 98,180"/>
+        <!-- Small zodiac: Leo glyph stylized -->
+        <path d="M 540 200 q 0 -28 22 -30 q 20 -2 22 16 q 2 18 -18 26 q -20 8 -22 28 q -2 20 18 22" stroke-width="1.2"/>
+        <!-- Crescent moon -->
+        <path d="M 620 380 a 40 40 0 1 0 30 -38 a 32 32 0 1 1 -30 38 z" fill="#D4A96A" opacity="0.7"/>
+        <!-- Sun with rays -->
+        <g transform="translate(110 500)">
+          <circle r="22" fill="none" stroke-width="1.2"/>
+          <g stroke-width="1">
+            <line x1="0" y1="-34" x2="0" y2="-42"/>
+            <line x1="0" y1="34" x2="0" y2="42"/>
+            <line x1="-34" y1="0" x2="-42" y2="0"/>
+            <line x1="34" y1="0" x2="42" y2="0"/>
+            <line x1="-24" y1="-24" x2="-30" y2="-30"/>
+            <line x1="24" y1="-24" x2="30" y2="-30"/>
+            <line x1="-24" y1="24" x2="-30" y2="30"/>
+            <line x1="24" y1="24" x2="30" y2="30"/>
+          </g>
+        </g>
+        <!-- Saturn sigil (stylized) -->
+        <g transform="translate(360 420)" stroke-width="1.2">
+          <path d="M -14 -16 L -14 20 M -22 -16 L -6 -16 M -14 8 Q 4 4 14 16 Q 18 22 22 18"/>
+        </g>
+        <!-- Hexagram (Star of David / Seal of Solomon, two overlapping triangles) -->
+        <g transform="translate(480 580)" stroke-width="0.9" opacity="0.9">
+          <polygon points="0,-32 28,16 -28,16"/>
+          <polygon points="0,32 -28,-16 28,-16"/>
+        </g>
+        <!-- Ankh -->
+        <g transform="translate(260 320)" stroke-width="1.4">
+          <circle cy="-20" r="14"/>
+          <line x1="0" y1="-6" x2="0" y2="28"/>
+          <line x1="-12" y1="6" x2="12" y2="6"/>
+        </g>
+        <!-- Alchemical sun-moon composite (small) -->
+        <g transform="translate(620 100)" stroke-width="0.9">
+          <circle r="18"/>
+          <circle r="5" fill="#D4A96A" opacity="0.8"/>
+        </g>
+        <!-- Arrow-like Sagittarius -->
+        <g transform="translate(60 360)" stroke-width="1.2">
+          <line x1="0" y1="0" x2="36" y2="-36"/>
+          <line x1="28" y1="-40" x2="36" y2="-36"/>
+          <line x1="40" y1="-28" x2="36" y2="-36"/>
+          <line x1="10" y1="10" x2="22" y2="-2"/>
+        </g>
+        <!-- Dotted orbit -->
+        <circle cx="360" cy="120" r="90" stroke-dasharray="3 7" stroke-width="0.6" opacity="0.7"/>
+        <!-- Small star points scattered -->
+        <g fill="#D4A96A" opacity="0.7">
+          <circle cx="320" cy="30"  r="1.1"/>
+          <circle cx="200" cy="80"  r="0.9"/>
+          <circle cx="660" cy="260" r="1.0"/>
+          <circle cx="90"  cy="240" r="0.9"/>
+          <circle cx="540" cy="330" r="1.1"/>
+          <circle cx="420" cy="540" r="0.9"/>
+          <circle cx="260" cy="640" r="1.0"/>
+          <circle cx="680" cy="680" r="1.1"/>
+          <circle cx="40"  cy="680" r="0.9"/>
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="720" height="720" fill="url(#sigils)"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <!-- Soft nebula cloud: large blurred blobs in indigo and champagne gold,
+       acts as a subtle cosmic wash layer. Designed to sit at low opacity
+       and drift slowly via CSS animation. -->
+  <defs>
+    <filter id="bigBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <radialGradient id="gInd" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#3A2F6B" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3A2F6B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gGold" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#D4A96A" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#D4A96A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gViolet" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#6B3F8B" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6B3F8B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gTeal" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#2E5166" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2E5166" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g filter="url(#bigBlur)">
+    <!-- Champagne gold warmth upper-right -->
+    <ellipse cx="1280" cy="220" rx="420" ry="300" fill="url(#gGold)"/>
+    <!-- Deep indigo center-left -->
+    <ellipse cx="320" cy="580" rx="520" ry="380" fill="url(#gInd)"/>
+    <!-- Violet accent upper-left -->
+    <ellipse cx="180" cy="180" rx="340" ry="260" fill="url(#gViolet)"/>
+    <!-- Teal deep lower-right -->
+    <ellipse cx="1200" cy="820" rx="420" ry="300" fill="url(#gTeal)"/>
+    <!-- Secondary gold accent lower-left -->
+    <ellipse cx="600" cy="900" rx="280" ry="200" fill="url(#gGold)" opacity="0.55"/>
+  </g>
+</svg>

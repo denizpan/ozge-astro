@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/ozge-astro/_next/static/chunks/0_.~yr17-xc3r.js","/ozge-astro/_next/static/chunks/0pav4g~ezy29u.js"],"ClientPageRoot"]
+3:I[76062,["/ozge-astro/_next/static/chunks/0_.~yr17-xc3r.js","/ozge-astro/_next/static/chunks/0pav4g~ezy29u.js","/ozge-astro/_next/static/chunks/0-jugp~b6928f.js","/ozge-astro/_next/static/chunks/11zfzwtou4n84.js"],"default"]
+6:I[97367,["/ozge-astro/_next/static/chunks/0_.~yr17-xc3r.js","/ozge-astro/_next/static/chunks/0pav4g~ezy29u.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/ozge-astro/_next/static/chunks/0-jugp~b6928f.js","async":true}],["$","script","script-1",{"src":"/ozge-astro/_next/static/chunks/11zfzwtou4n84.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ajR66Ai2r3z2Rku3caQda"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

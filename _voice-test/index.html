@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sibylla Voice Test, Studio Siderea</title>
+<meta name="robots" content="noindex,nofollow">
+<style>
+  body {
+    background: #02030a;
+    color: #f2e8d0;
+    font-family: Manrope, sans-serif;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 60px 24px;
+    line-height: 1.7;
+  }
+  h1 {
+    font-family: 'Cinzel', 'Fraunces', serif;
+    font-weight: 300;
+    color: #f2e8d0;
+    letter-spacing: 0.02em;
+    font-size: 40px;
+    margin-bottom: 8px;
+  }
+  h2.section {
+    font-family: 'Cinzel', 'Fraunces', serif;
+    font-weight: 300;
+    color: #d4a96a;
+    letter-spacing: 0.04em;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(212,169,106,0.2);
+  }
+  .lead {
+    color: rgba(242, 232, 208, 0.7);
+    font-size: 15px;
+    margin-bottom: 36px;
+  }
+  .voice-card {
+    background: rgba(15, 18, 32, 0.55);
+    border: 1px solid rgba(212, 169, 106, 0.25);
+    border-radius: 14px;
+    padding: 24px 28px;
+    margin-bottom: 18px;
+  }
+  .voice-card h3 {
+    font-family: 'Cinzel', 'Fraunces', serif;
+    color: #d4a96a;
+    font-size: 19px;
+    font-weight: 400;
+    margin: 0 0 6px;
+  }
+  .voice-card p {
+    color: rgba(242, 232, 208, 0.7);
+    font-size: 13px;
+    margin: 0 0 14px;
+    font-style: italic;
+  }
+  .voice-card .id {
+    font-family: monospace;
+    font-size: 11px;
+    color: rgba(212, 169, 106, 0.6);
+    margin-top: 8px;
+  }
+  audio { width: 100%; }
+  .text-block {
+    background: rgba(2, 3, 10, 0.5);
+    border-left: 2px solid #d4a96a;
+    padding: 18px 22px;
+    margin: 30px 0;
+    border-radius: 0 10px 10px 0;
+    font-size: 14px;
+    color: rgba(242, 232, 208, 0.85);
+  }
+  .badge {
+    display: inline-block;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border: 1px solid rgba(212,169,106,0.3);
+    border-radius: 50px;
+    color: rgba(242,232,208,0.6);
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+  .badge.new { background: rgba(212,169,106,0.15); color: #d4a96a; border-color: #d4a96a; }
+</style>
+</head>
+<body>
+  <h1>Sibylla Voice Test</h1>
+  <p class="lead">
+    Üç yeni özel-tasarım ses (Voice Design) + üç default ses karşılaştırması.
+  </p>
+
+  <div class="text-block">
+    "Persephone şu an içinde konuşuyor. Bahar tanrıçası, yer altına
+    çağrıldığında nar tanesini yedi, bir kez tatmış olan artık eskisi gibi
+    olamaz. Sen de bir iniş döngüsündesin, bu kayıp değil derinleşmedir."
+  </div>
+
+  <h2 class="section">Türkçe Storyteller Sesleri <span class="badge new">YENİ TUR</span></h2>
+  <p style="color: rgba(242,232,208,0.65); font-size: 13px; margin-top: -8px;">
+    ElevenLabs Voice Library, Türkçe ana dili konuşan storyteller / audiobook
+    narrator etiketli kadın sesleri. Stability düşürüldü (0.35), style yükseltildi
+    (0.70), daha ifadeli akış için.
+  </p>
+
+  <div class="voice-card">
+    <h3>İrem, Velvet Acoustics &amp; Fairytale Storyteller</h3>
+    <p>Children&#39;s books, historical narration, smooth, serene.</p>
+    <audio controls preload="metadata"><source src="community-irem.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: hy7OAv1nH3Eqqj96Aude</div>
+  </div>
+
+  <div class="voice-card">
+    <h3>Nuray, Turkish Professional Narrator</h3>
+    <p>Warm, natural, audiobooks, philosophy, meditation, podcasts.</p>
+    <audio controls preload="metadata"><source src="community-nuray.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: WgkQ6iX2TeKqW6ww3mEZ</div>
+  </div>
+
+  <div class="voice-card">
+    <h3>Pınar K.</h3>
+    <p>Calm, warm, gentle, reassuring tone, narration.</p>
+    <audio controls preload="metadata"><source src="community-pinar.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: TLSC2qq8RlDdm7tETUHz</div>
+  </div>
+
+  <div class="voice-card">
+    <h3>Günnur</h3>
+    <p>Native Turkish, warm clear trustworthy, storytelling, meditation.</p>
+    <audio controls preload="metadata"><source src="community-gunnur.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: 58oUR7g9xaf9pbxNCyws</div>
+  </div>
+
+  <h2 class="section">Voice Design Storyteller, Yeni Prompt</h2>
+  <p style="color: rgba(242,232,208,0.65); font-size: 13px; margin-top: -8px;">
+    Prompt: "Warm, expressive Turkish female storyteller... rises and falls
+    with emotion, like reading a beloved fairy tale, maternal, hypnotic pace,
+    candlelit table myth-telling..."
+  </p>
+
+  <div class="voice-card">
+    <h3>Storyteller Design 1</h3>
+    <audio controls preload="metadata"><source src="storyteller-1.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: NSqCgS4DtuMNZjMDiQUq</div>
+  </div>
+
+  <div class="voice-card">
+    <h3>Storyteller Design 2</h3>
+    <audio controls preload="metadata"><source src="storyteller-2.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: 11F8rxbe2ORZREnPZsYu</div>
+  </div>
+
+  <div class="voice-card">
+    <h3>Storyteller Design 3</h3>
+    <audio controls preload="metadata"><source src="storyteller-3.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: OL4W7ivZ6lSI1zJwABIV</div>
+  </div>
+
+  <h2 class="section">Voice Design İlk Tur, Türkçe Ana Dili</h2>
+  <p style="color: rgba(242,232,208,0.65); font-size: 13px; margin-top: -8px;">
+    Prompt'ta "native Turkish female, Istanbul accent" belirtildi. Türkçe
+    telaffuzu doğal akan, derin ve sakin sesler.
+  </p>
+
+  <div class="voice-card">
+    <h3>Design TR-1</h3>
+    <p>Türkçe ana dili odaklı prompt, ilk varyasyon.</p>
+    <audio controls preload="metadata"><source src="design-tr-1.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: YsCjOYzCRUu9kOAJstAO</div>
+  </div>
+
+  <div class="voice-card">
+    <h3>Design TR-2</h3>
+    <p>Türkçe ana dili odaklı prompt, ikinci varyasyon.</p>
+    <audio controls preload="metadata"><source src="design-tr-2.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: ViBdm9W5RSsvh2RvbsPA</div>
+  </div>
+
+  <div class="voice-card">
+    <h3>Design TR-3</h3>
+    <p>Türkçe ana dili odaklı prompt, üçüncü varyasyon.</p>
+    <audio controls preload="metadata"><source src="design-tr-3.mp3" type="audio/mpeg"></audio>
+    <div class="id">voice_id: jp1GOpXF2284rWe2EQAR</div>
+  </div>
+
+  <h2 class="section">Voice Design, İlk Tur (Türkçe belirtilmedi)</h2>
+  <p style="color: rgba(242,232,208,0.65); font-size: 13px; margin-top: -8px;">
+    İlk tur, prompt'ta dil belirtilmedi, default İngilizce-tabanlı çıktı.
+  </p>
+
+  <div class="voice-card">
+    <h3>Design 1</h3>
+    <audio controls preload="metadata"><source src="design-1.mp3" type="audio/mpeg"></audio>
+  </div>
+
+  <div class="voice-card">
+    <h3>Design 2</h3>
+    <audio controls preload="metadata"><source src="design-2.mp3" type="audio/mpeg"></audio>
+  </div>
+
+  <div class="voice-card">
+    <h3>Design 3</h3>
+    <audio controls preload="metadata"><source src="design-3.mp3" type="audio/mpeg"></audio>
+  </div>
+
+  <h2 class="section">Default Library, ilk denenenler</h2>
+
+  <div class="voice-card">
+    <h3>Lily, Velvety Actress</h3>
+    <audio controls preload="metadata"><source src="lily.mp3" type="audio/mpeg"></audio>
+  </div>
+
+  <div class="voice-card">
+    <h3>Sarah, Mature, Reassuring</h3>
+    <audio controls preload="metadata"><source src="sarah.mp3" type="audio/mpeg"></audio>
+  </div>
+
+  <div class="voice-card">
+    <h3>Matilda, Knowledgable, Professional</h3>
+    <audio controls preload="metadata"><source src="matilda.mp3" type="audio/mpeg"></audio>
+  </div>
+
+  <p style="margin-top: 50px; color: rgba(242, 232, 208, 0.5); font-size: 12px;">
+    Voice Design promptu (İngilizce): "A low, velvety, contemplative female
+    voice in her late 30s to early 40s. Deep chest resonance with a calm,
+    soft-spoken delivery. Slow measured pace, deliberate pauses between
+    thoughts as if each word carries weight. Slight breathy intimacy, like an
+    oracle whispering interpretation across a candlelit table at midnight..."
+  </p>
+</body>
+</html>
